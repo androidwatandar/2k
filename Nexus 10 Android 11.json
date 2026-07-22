@@ -1,0 +1,15 @@
+{
+  "id": "manta_11",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 10 (Android 11)",
+  "summary": "Exynos 5250 - Android 11",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 10",
+    "device": "manta",
+    "product": "manta",
+    "board": "manta",
+    "hardware": "manta"
+  }
+}

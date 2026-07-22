@@ -1,0 +1,15 @@
+{
+  "id": "austin_11",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g 5G (Android 11)",
+  "summary": "Snapdragon 480 - Android 11",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g 5G",
+    "device": "austin",
+    "product": "austin",
+    "board": "austin",
+    "hardware": "austin"
+  }
+}

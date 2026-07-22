@@ -1,0 +1,15 @@
+{
+  "id": "FP5_10",
+  "brandLabel": "Fairphone",
+  "modelLabel": "5 (Android 10)",
+  "summary": "Snapdragon 782G - Android 10",
+  "profile": {
+    "brand": "fairphone",
+    "manufacturer": "Fairphone",
+    "model": "5",
+    "device": "FP5",
+    "product": "FP5",
+    "board": "FP5",
+    "hardware": "FP5"
+  }
+}

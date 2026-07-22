@@ -1,0 +1,15 @@
+{
+  "id": "fogos_12L",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g84 (Android 12L)",
+  "summary": "Snapdragon 695 - Android 12L",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g84",
+    "device": "fogos",
+    "product": "fogos",
+    "board": "fogos",
+    "hardware": "fogos"
+  }
+}

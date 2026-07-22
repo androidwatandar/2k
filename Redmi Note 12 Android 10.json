@@ -1,0 +1,15 @@
+{
+  "id": "sunstone_10",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 12 (Android 10)",
+  "summary": "Snapdragon 4 Gen 1 - Android 10",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 12",
+    "device": "sunstone",
+    "product": "sunstone",
+    "board": "sunstone",
+    "hardware": "sunstone"
+  }
+}

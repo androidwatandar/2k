@@ -1,0 +1,15 @@
+{
+  "id": "mondrian_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F5 Pro (Android 15)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F5 Pro",
+    "device": "mondrian",
+    "product": "mondrian",
+    "board": "mondrian",
+    "hardware": "mondrian"
+  }
+}

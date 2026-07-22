@@ -1,0 +1,15 @@
+{
+  "id": "vitamin_14",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord 3 (Android 14)",
+  "summary": "Dimensity 9000 - Android 14",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord 3",
+    "device": "vitamin",
+    "product": "vitamin",
+    "board": "vitamin",
+    "hardware": "vitamin"
+  }
+}

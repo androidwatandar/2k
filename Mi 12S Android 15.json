@@ -1,0 +1,15 @@
+{
+  "id": "mayfly_15",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12S (Android 15)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 15",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12S",
+    "device": "mayfly",
+    "product": "mayfly",
+    "board": "mayfly",
+    "hardware": "mayfly"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "m34_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy M34 (Android 12)",
+  "summary": "Dimensity 1080 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy M34",
+    "device": "m34",
+    "product": "m34",
+    "board": "m34",
+    "hardware": "m34"
+  }
+}

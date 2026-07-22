@@ -1,0 +1,15 @@
+{
+  "id": "manta_15",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 10 (Android 15)",
+  "summary": "Exynos 5250 - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 10",
+    "device": "manta",
+    "product": "manta",
+    "board": "manta",
+    "hardware": "manta"
+  }
+}

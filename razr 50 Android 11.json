@@ -1,0 +1,15 @@
+{
+  "id": "zeekr50_11",
+  "brandLabel": "Motorola",
+  "modelLabel": "razr 50 (Android 11)",
+  "summary": "Dimensity 7300 - Android 11",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "razr 50",
+    "device": "zeekr50",
+    "product": "zeekr50",
+    "board": "zeekr50",
+    "hardware": "zeekr50"
+  }
+}

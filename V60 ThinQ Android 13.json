@@ -1,0 +1,15 @@
+{
+  "id": "timelm_13",
+  "brandLabel": "LG",
+  "modelLabel": "V60 ThinQ (Android 13)",
+  "summary": "Snapdragon 865 - Android 13",
+  "profile": {
+    "brand": "lg",
+    "manufacturer": "LGE",
+    "model": "V60 ThinQ",
+    "device": "timelm",
+    "product": "timelm",
+    "board": "timelm",
+    "hardware": "timelm"
+  }
+}

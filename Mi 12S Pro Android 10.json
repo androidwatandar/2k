@@ -1,0 +1,15 @@
+{
+  "id": "unicorn_10",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12S Pro (Android 10)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 10",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12S Pro",
+    "device": "unicorn",
+    "product": "unicorn",
+    "board": "unicorn",
+    "hardware": "unicorn"
+  }
+}

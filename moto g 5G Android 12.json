@@ -1,0 +1,15 @@
+{
+  "id": "austin_12",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g 5G (Android 12)",
+  "summary": "Snapdragon 480 - Android 12",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g 5G",
+    "device": "austin",
+    "product": "austin",
+    "board": "austin",
+    "hardware": "austin"
+  }
+}

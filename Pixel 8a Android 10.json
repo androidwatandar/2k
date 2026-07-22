@@ -1,0 +1,15 @@
+{
+  "id": "akita_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 8a (Android 10)",
+  "summary": "Tensor G3 - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 8a",
+    "device": "akita",
+    "product": "akita",
+    "board": "akita",
+    "hardware": "akita"
+  }
+}

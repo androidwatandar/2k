@@ -1,0 +1,15 @@
+{
+  "id": "g0s_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S22+ (Android 15)",
+  "summary": "Exynos 2200 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S22+",
+    "device": "g0s",
+    "product": "g0s",
+    "board": "g0s",
+    "hardware": "g0s"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "y2s_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S20+ (Android 12)",
+  "summary": "Exynos 990 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S20+",
+    "device": "y2s",
+    "product": "y2s",
+    "board": "y2s",
+    "hardware": "y2s"
+  }
+}

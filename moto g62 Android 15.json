@@ -1,0 +1,15 @@
+{
+  "id": "rhodec_15",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g62 (Android 15)",
+  "summary": "Snapdragon 480+ - Android 15",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g62",
+    "device": "rhodec",
+    "product": "rhodec",
+    "board": "rhodec",
+    "hardware": "rhodec"
+  }
+}

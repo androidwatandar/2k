@@ -1,0 +1,15 @@
+{
+  "id": "ebba_15",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE (Android 15)",
+  "summary": "Snapdragon 750G - Android 15",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE",
+    "device": "ebba",
+    "product": "ebba",
+    "board": "ebba",
+    "hardware": "ebba"
+  }
+}

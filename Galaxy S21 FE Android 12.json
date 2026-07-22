@@ -1,0 +1,15 @@
+{
+  "id": "r9q_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S21 FE (Android 12)",
+  "summary": "Snapdragon 888 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S21 FE",
+    "device": "r9q",
+    "product": "r9q",
+    "board": "r9q",
+    "hardware": "r9q"
+  }
+}

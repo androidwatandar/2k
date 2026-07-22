@@ -1,0 +1,15 @@
+{
+  "id": "obsidian_15",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 14 Pro (Android 15)",
+  "summary": "Snapdragon 7s Gen 3 - Android 15",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 14 Pro",
+    "device": "obsidian",
+    "product": "obsidian",
+    "board": "obsidian",
+    "hardware": "obsidian"
+  }
+}

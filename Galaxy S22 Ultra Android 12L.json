@@ -1,0 +1,15 @@
+{
+  "id": "b0s_12L",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S22 Ultra (Android 12L)",
+  "summary": "Exynos 2200 - Android 12L",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S22 Ultra",
+    "device": "b0s",
+    "product": "b0s",
+    "board": "b0s",
+    "hardware": "b0s"
+  }
+}

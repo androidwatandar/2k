@@ -1,0 +1,15 @@
+{
+  "id": "instantnoodle_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 8 (Android 12L)",
+  "summary": "Snapdragon 865 - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 8",
+    "device": "instantnoodle",
+    "product": "instantnoodle",
+    "board": "instantnoodle",
+    "hardware": "instantnoodle"
+  }
+}

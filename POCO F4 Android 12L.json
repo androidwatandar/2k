@@ -1,0 +1,15 @@
+{
+  "id": "munch_12L",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F4 (Android 12L)",
+  "summary": "Snapdragon 870 - Android 12L",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F4",
+    "device": "munch",
+    "product": "munch",
+    "board": "munch",
+    "hardware": "munch"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "AD8_10",
+  "brandLabel": "Tecno",
+  "modelLabel": "Phantom X2 (Android 10)",
+  "summary": "Dimensity 9000 - Android 10",
+  "profile": {
+    "brand": "tecno",
+    "manufacturer": "Tecno",
+    "model": "Phantom X2",
+    "device": "AD8",
+    "product": "AD8",
+    "board": "AD8",
+    "hardware": "AD8"
+  }
+}

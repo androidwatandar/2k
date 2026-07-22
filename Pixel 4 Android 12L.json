@@ -1,0 +1,15 @@
+{
+  "id": "flame_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 4 (Android 12L)",
+  "summary": "Snapdragon 855 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 4",
+    "device": "flame",
+    "product": "flame",
+    "board": "flame",
+    "hardware": "flame"
+  }
+}

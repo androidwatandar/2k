@@ -1,0 +1,15 @@
+{
+  "id": "aurora_10",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 14 Ultra (Android 10)",
+  "summary": "Snapdragon 8 Gen 3 - Android 10",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 14 Ultra",
+    "device": "aurora",
+    "product": "aurora",
+    "board": "aurora",
+    "hardware": "aurora"
+  }
+}

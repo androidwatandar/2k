@@ -1,0 +1,15 @@
+{
+  "id": "A2023P_12",
+  "brandLabel": "ZTE",
+  "modelLabel": "Axon 40 Ultra (Android 12)",
+  "summary": "Snapdragon 8 Gen 1 - Android 12",
+  "profile": {
+    "brand": "zte",
+    "manufacturer": "ZTE",
+    "model": "Axon 40 Ultra",
+    "device": "A2023P",
+    "product": "A2023P",
+    "board": "A2023P",
+    "hardware": "A2023P"
+  }
+}

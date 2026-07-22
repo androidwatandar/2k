@@ -1,0 +1,15 @@
+{
+  "id": "P663L_10",
+  "brandLabel": "Itel",
+  "modelLabel": "P55 (Android 10)",
+  "summary": "Unisoc T606 - Android 10",
+  "profile": {
+    "brand": "itel",
+    "manufacturer": "Itel",
+    "model": "P55",
+    "device": "P663L",
+    "product": "P663L",
+    "board": "P663L",
+    "hardware": "P663L"
+  }
+}

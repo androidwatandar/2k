@@ -1,0 +1,15 @@
+{
+  "id": "fluorite_14",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE 4 (Android 14)",
+  "summary": "Snapdragon 7 Gen 3 - Android 14",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE 4",
+    "device": "fluorite",
+    "product": "fluorite",
+    "board": "fluorite",
+    "hardware": "fluorite"
+  }
+}

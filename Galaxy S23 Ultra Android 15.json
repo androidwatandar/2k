@@ -1,0 +1,15 @@
+{
+  "id": "dm3q_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S23 Ultra (Android 15)",
+  "summary": "Snapdragon 8 Gen 2 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S23 Ultra",
+    "device": "dm3q",
+    "product": "dm3q",
+    "board": "dm3q",
+    "hardware": "dm3q"
+  }
+}

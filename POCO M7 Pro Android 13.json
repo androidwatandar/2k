@@ -1,0 +1,15 @@
+{
+  "id": "breeze_13",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO M7 Pro (Android 13)",
+  "summary": "Dimensity 7300 - Android 13",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO M7 Pro",
+    "device": "breeze",
+    "product": "breeze",
+    "board": "breeze",
+    "hardware": "breeze"
+  }
+}

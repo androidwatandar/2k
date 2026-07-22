@@ -1,0 +1,15 @@
+{
+  "id": "kebab_11",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 8T (Android 11)",
+  "summary": "Snapdragon 865 - Android 11",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 8T",
+    "device": "kebab",
+    "product": "kebab",
+    "board": "kebab",
+    "hardware": "kebab"
+  }
+}

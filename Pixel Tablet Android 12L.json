@@ -1,0 +1,15 @@
+{
+  "id": "tangorpro_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel Tablet (Android 12L)",
+  "summary": "Tensor G2 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel Tablet",
+    "device": "tangorpro",
+    "product": "tangorpro",
+    "board": "tangorpro",
+    "hardware": "tangorpro"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b2q_11",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy Z Flip 3 (Android 11)",
+  "summary": "Snapdragon 888 - Android 11",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy Z Flip 3",
+    "device": "b2q",
+    "product": "b2q",
+    "board": "b2q",
+    "hardware": "b2q"
+  }
+}

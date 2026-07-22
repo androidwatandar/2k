@@ -1,0 +1,15 @@
+{
+  "id": "a54_11",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A54 (Android 11)",
+  "summary": "Exynos 1380 - Android 11",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A54",
+    "device": "a54",
+    "product": "a54",
+    "board": "a54",
+    "hardware": "a54"
+  }
+}

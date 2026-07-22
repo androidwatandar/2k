@@ -1,0 +1,15 @@
+{
+  "id": "ctwo_14",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 50 (Android 14)",
+  "summary": "Dimensity 7300 - Android 14",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 50",
+    "device": "ctwo",
+    "product": "ctwo",
+    "board": "ctwo",
+    "hardware": "ctwo"
+  }
+}

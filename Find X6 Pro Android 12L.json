@@ -1,0 +1,15 @@
+{
+  "id": "PGEM10_12L",
+  "brandLabel": "OPPO",
+  "modelLabel": "Find X6 Pro (Android 12L)",
+  "summary": "Snapdragon 8 Gen 2 - Android 12L",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Find X6 Pro",
+    "device": "PGEM10",
+    "product": "PGEM10",
+    "board": "PGEM10",
+    "hardware": "PGEM10"
+  }
+}

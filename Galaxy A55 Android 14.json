@@ -1,0 +1,15 @@
+{
+  "id": "a55_14",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A55 (Android 14)",
+  "summary": "Exynos 1480 - Android 14",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A55",
+    "device": "a55",
+    "product": "a55",
+    "board": "a55",
+    "hardware": "a55"
+  }
+}

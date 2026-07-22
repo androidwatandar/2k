@@ -1,0 +1,15 @@
+{
+  "id": "pdx235_12",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 5 V (Android 12)",
+  "summary": "Snapdragon 8 Gen 2 - Android 12",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 5 V",
+    "device": "pdx235",
+    "product": "pdx235",
+    "board": "pdx235",
+    "hardware": "pdx235"
+  }
+}

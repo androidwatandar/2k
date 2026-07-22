@@ -1,0 +1,15 @@
+{
+  "id": "oriole_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 6 (Android 10)",
+  "summary": "Tensor - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 6",
+    "device": "oriole",
+    "product": "oriole",
+    "board": "oriole",
+    "hardware": "oriole"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lemonades_14",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 9R (Android 14)",
+  "summary": "Snapdragon 870 - Android 14",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 9R",
+    "device": "lemonades",
+    "product": "lemonades",
+    "board": "lemonades",
+    "hardware": "lemonades"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "redfin_13",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 5 (Android 13)",
+  "summary": "Snapdragon 765G - Android 13",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 5",
+    "device": "redfin",
+    "product": "redfin",
+    "board": "redfin",
+    "hardware": "redfin"
+  }
+}

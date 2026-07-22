@@ -1,0 +1,15 @@
+{
+  "id": "ovaltine_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 10T (Android 12L)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 10T",
+    "device": "ovaltine",
+    "product": "ovaltine",
+    "board": "ovaltine",
+    "hardware": "ovaltine"
+  }
+}

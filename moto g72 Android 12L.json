@@ -1,0 +1,15 @@
+{
+  "id": "vicky_12L",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g72 (Android 12L)",
+  "summary": "Helio G99 - Android 12L",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g72",
+    "device": "vicky",
+    "product": "vicky",
+    "board": "vicky",
+    "hardware": "vicky"
+  }
+}

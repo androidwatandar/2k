@@ -1,0 +1,15 @@
+{
+  "id": "amethyst_11",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO X7 Pro (Android 11)",
+  "summary": "Dimensity 8400 - Android 11",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO X7 Pro",
+    "device": "amethyst",
+    "product": "amethyst",
+    "board": "amethyst",
+    "hardware": "amethyst"
+  }
+}

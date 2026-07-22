@@ -1,0 +1,15 @@
+{
+  "id": "beyond1_12L",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S10 (Android 12L)",
+  "summary": "Exynos 9820 - Android 12L",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S10",
+    "device": "beyond1",
+    "product": "beyond1",
+    "board": "beyond1",
+    "hardware": "beyond1"
+  }
+}

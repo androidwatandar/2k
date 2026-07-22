@@ -1,0 +1,15 @@
+{
+  "id": "Spacewar_15",
+  "brandLabel": "Nothing",
+  "modelLabel": "Phone 1 (Android 15)",
+  "summary": "Snapdragon 778G+ - Android 15",
+  "profile": {
+    "brand": "nothing",
+    "manufacturer": "Nothing",
+    "model": "Phone 1",
+    "device": "Spacewar",
+    "product": "Spacewar",
+    "board": "Spacewar",
+    "hardware": "Spacewar"
+  }
+}

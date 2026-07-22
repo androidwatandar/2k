@@ -1,0 +1,15 @@
+{
+  "id": "rhode_13",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g52 (Android 13)",
+  "summary": "Snapdragon 680 - Android 13",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g52",
+    "device": "rhode",
+    "product": "rhode",
+    "board": "rhode",
+    "hardware": "rhode"
+  }
+}

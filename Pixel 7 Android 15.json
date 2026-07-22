@@ -1,0 +1,15 @@
+{
+  "id": "panther_15",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 7 (Android 15)",
+  "summary": "Tensor G2 - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 7",
+    "device": "panther",
+    "product": "panther",
+    "board": "panther",
+    "hardware": "panther"
+  }
+}

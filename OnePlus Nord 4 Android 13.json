@@ -1,0 +1,15 @@
+{
+  "id": "aston_13",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord 4 (Android 13)",
+  "summary": "Snapdragon 7 Gen 3 - Android 13",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord 4",
+    "device": "aston",
+    "product": "aston",
+    "board": "aston",
+    "hardware": "aston"
+  }
+}

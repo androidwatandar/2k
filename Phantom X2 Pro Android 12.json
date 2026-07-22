@@ -1,0 +1,15 @@
+{
+  "id": "AD9_12",
+  "brandLabel": "Tecno",
+  "modelLabel": "Phantom X2 Pro (Android 12)",
+  "summary": "Dimensity 9000 - Android 12",
+  "profile": {
+    "brand": "tecno",
+    "manufacturer": "Tecno",
+    "model": "Phantom X2 Pro",
+    "device": "AD9",
+    "product": "AD9",
+    "board": "AD9",
+    "hardware": "AD9"
+  }
+}

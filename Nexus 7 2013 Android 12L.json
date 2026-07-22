@@ -1,0 +1,15 @@
+{
+  "id": "flo_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 7 2013 (Android 12L)",
+  "summary": "Snapdragon S4 Pro - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 7 2013",
+    "device": "flo",
+    "product": "flo",
+    "board": "flo",
+    "hardware": "flo"
+  }
+}

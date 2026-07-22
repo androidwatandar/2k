@@ -1,0 +1,15 @@
+{
+  "id": "htc_bymdugl_10",
+  "brandLabel": "HTC",
+  "modelLabel": "U20 5G (Android 10)",
+  "summary": "Snapdragon 765G - Android 10",
+  "profile": {
+    "brand": "htc",
+    "manufacturer": "HTC",
+    "model": "U20 5G",
+    "device": "htc_bymdugl",
+    "product": "htc_bymdugl",
+    "board": "htc_bymdugl",
+    "hardware": "htc_bymdugl"
+  }
+}

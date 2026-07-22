@@ -1,0 +1,15 @@
+{
+  "id": "amethyst_12L",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO X7 Pro (Android 12L)",
+  "summary": "Dimensity 8400 - Android 12L",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO X7 Pro",
+    "device": "amethyst",
+    "product": "amethyst",
+    "board": "amethyst",
+    "hardware": "amethyst"
+  }
+}

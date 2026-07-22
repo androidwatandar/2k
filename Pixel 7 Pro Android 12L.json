@@ -1,0 +1,15 @@
+{
+  "id": "cheetah_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 7 Pro (Android 12L)",
+  "summary": "Tensor G2 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 7 Pro",
+    "device": "cheetah",
+    "product": "cheetah",
+    "board": "cheetah",
+    "hardware": "cheetah"
+  }
+}

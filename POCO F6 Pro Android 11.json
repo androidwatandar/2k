@@ -1,0 +1,15 @@
+{
+  "id": "vermeer_11",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F6 Pro (Android 11)",
+  "summary": "Snapdragon 8 Gen 2 - Android 11",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F6 Pro",
+    "device": "vermeer",
+    "product": "vermeer",
+    "board": "vermeer",
+    "hardware": "vermeer"
+  }
+}

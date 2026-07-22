@@ -1,0 +1,15 @@
+{
+  "id": "PEPM00_14",
+  "brandLabel": "OPPO",
+  "modelLabel": "Reno 6 Pro (Android 14)",
+  "summary": "Dimensity 1200 - Android 14",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Reno 6 Pro",
+    "device": "PEPM00",
+    "product": "PEPM00",
+    "board": "PEPM00",
+    "hardware": "PEPM00"
+  }
+}

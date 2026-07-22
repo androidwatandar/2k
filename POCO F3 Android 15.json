@@ -1,0 +1,15 @@
+{
+  "id": "alioth_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F3 (Android 15)",
+  "summary": "Snapdragon 870 - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F3",
+    "device": "alioth",
+    "product": "alioth",
+    "board": "alioth",
+    "hardware": "alioth"
+  }
+}

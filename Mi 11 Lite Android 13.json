@@ -1,0 +1,15 @@
+{
+  "id": "courbet_13",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 11 Lite (Android 13)",
+  "summary": "Snapdragon 732G - Android 13",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 11 Lite",
+    "device": "courbet",
+    "product": "courbet",
+    "board": "courbet",
+    "hardware": "courbet"
+  }
+}

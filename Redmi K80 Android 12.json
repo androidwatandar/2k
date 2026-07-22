@@ -1,0 +1,15 @@
+{
+  "id": "zorn_12",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi K80 (Android 12)",
+  "summary": "Snapdragon 8 Gen 3 - Android 12",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi K80",
+    "device": "zorn",
+    "product": "zorn",
+    "board": "zorn",
+    "hardware": "zorn"
+  }
+}

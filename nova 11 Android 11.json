@@ -1,0 +1,15 @@
+{
+  "id": "FOA-AL00_11",
+  "brandLabel": "HUAWEI",
+  "modelLabel": "nova 11 (Android 11)",
+  "summary": "Snapdragon 778G - Android 11",
+  "profile": {
+    "brand": "huawei",
+    "manufacturer": "HUAWEI",
+    "model": "nova 11",
+    "device": "FOA-AL00",
+    "product": "FOA-AL00",
+    "board": "FOA-AL00",
+    "hardware": "FOA-AL00"
+  }
+}

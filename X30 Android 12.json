@@ -1,0 +1,15 @@
+{
+  "id": "scarletwitch_12",
+  "brandLabel": "Nokia",
+  "modelLabel": "X30 (Android 12)",
+  "summary": "Snapdragon 695 - Android 12",
+  "profile": {
+    "brand": "nokia",
+    "manufacturer": "Nokia",
+    "model": "X30",
+    "device": "scarletwitch",
+    "product": "scarletwitch",
+    "board": "scarletwitch",
+    "hardware": "scarletwitch"
+  }
+}

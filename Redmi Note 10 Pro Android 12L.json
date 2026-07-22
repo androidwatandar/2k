@@ -1,0 +1,15 @@
+{
+  "id": "sweet_12L",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 10 Pro (Android 12L)",
+  "summary": "Snapdragon 732G - Android 12L",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 10 Pro",
+    "device": "sweet",
+    "product": "sweet",
+    "board": "sweet",
+    "hardware": "sweet"
+  }
+}

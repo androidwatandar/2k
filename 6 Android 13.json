@@ -1,0 +1,15 @@
+{
+  "id": "FP6_13",
+  "brandLabel": "Fairphone",
+  "modelLabel": "6 (Android 13)",
+  "summary": "Snapdragon 7 Gen 3 - Android 13",
+  "profile": {
+    "brand": "fairphone",
+    "manufacturer": "Fairphone",
+    "model": "6",
+    "device": "FP6",
+    "product": "FP6",
+    "board": "FP6",
+    "hardware": "FP6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "husky_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 8 Pro (Android 12L)",
+  "summary": "Tensor G3 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 8 Pro",
+    "device": "husky",
+    "product": "husky",
+    "board": "husky",
+    "hardware": "husky"
+  }
+}

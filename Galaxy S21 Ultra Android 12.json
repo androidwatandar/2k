@@ -1,0 +1,15 @@
+{
+  "id": "p3s_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S21 Ultra (Android 12)",
+  "summary": "Exynos 2100 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S21 Ultra",
+    "device": "p3s",
+    "product": "p3s",
+    "board": "p3s",
+    "hardware": "p3s"
+  }
+}

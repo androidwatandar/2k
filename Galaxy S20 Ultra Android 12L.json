@@ -1,0 +1,15 @@
+{
+  "id": "z3s_12L",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S20 Ultra (Android 12L)",
+  "summary": "Exynos 990 - Android 12L",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S20 Ultra",
+    "device": "z3s",
+    "product": "z3s",
+    "board": "z3s",
+    "hardware": "z3s"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a15_14",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A15 (Android 14)",
+  "summary": "MediaTek - Android 14",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A15",
+    "device": "a15",
+    "product": "a15",
+    "board": "a15",
+    "hardware": "a15"
+  }
+}

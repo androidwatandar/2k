@@ -1,0 +1,15 @@
+{
+  "id": "waffle_10",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 12 (Android 10)",
+  "summary": "Snapdragon 8 Gen 3 - Android 10",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 12",
+    "device": "waffle",
+    "product": "waffle",
+    "board": "waffle",
+    "hardware": "waffle"
+  }
+}

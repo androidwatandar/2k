@@ -1,0 +1,15 @@
+{
+  "id": "manet_15",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi K70 (Android 15)",
+  "summary": "Snapdragon 8 Gen 2 - Android 15",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi K70",
+    "device": "manet",
+    "product": "manet",
+    "board": "manet",
+    "hardware": "manet"
+  }
+}

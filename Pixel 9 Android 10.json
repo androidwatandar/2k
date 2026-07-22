@@ -1,0 +1,15 @@
+{
+  "id": "tokay_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 9 (Android 10)",
+  "summary": "Tensor G4 - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 9",
+    "device": "tokay",
+    "product": "tokay",
+    "board": "tokay",
+    "hardware": "tokay"
+  }
+}

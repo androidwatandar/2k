@@ -1,0 +1,15 @@
+{
+  "id": "lynx_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 7a (Android 12L)",
+  "summary": "Tensor G2 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 7a",
+    "device": "lynx",
+    "product": "lynx",
+    "board": "lynx",
+    "hardware": "lynx"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "miro_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F7 Pro (Android 15)",
+  "summary": "Snapdragon 8 Elite - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F7 Pro",
+    "device": "miro",
+    "product": "miro",
+    "board": "miro",
+    "hardware": "miro"
+  }
+}

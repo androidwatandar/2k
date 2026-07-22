@@ -1,0 +1,15 @@
+{
+  "id": "a34_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A34 (Android 12)",
+  "summary": "Dimensity 1080 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A34",
+    "device": "a34",
+    "product": "a34",
+    "board": "a34",
+    "hardware": "a34"
+  }
+}

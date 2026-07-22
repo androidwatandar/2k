@@ -1,0 +1,15 @@
+{
+  "id": "winglm_14",
+  "brandLabel": "LG",
+  "modelLabel": "Wing (Android 14)",
+  "summary": "Snapdragon 765G - Android 14",
+  "profile": {
+    "brand": "lg",
+    "manufacturer": "LGE",
+    "model": "Wing",
+    "device": "winglm",
+    "product": "winglm",
+    "board": "winglm",
+    "hardware": "winglm"
+  }
+}

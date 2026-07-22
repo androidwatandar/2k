@@ -1,0 +1,15 @@
+{
+  "id": "pdx246_15",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 10 VI (Android 15)",
+  "summary": "Snapdragon 6 Gen 1 - Android 15",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 10 VI",
+    "device": "pdx246",
+    "product": "pdx246",
+    "board": "pdx246",
+    "hardware": "pdx246"
+  }
+}

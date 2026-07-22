@@ -1,0 +1,15 @@
+{
+  "id": "ziti_13",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE 3 (Android 13)",
+  "summary": "Snapdragon 695 - Android 13",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE 3",
+    "device": "ziti",
+    "product": "ziti",
+    "board": "ziti",
+    "hardware": "ziti"
+  }
+}

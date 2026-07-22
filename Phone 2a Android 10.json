@@ -1,0 +1,15 @@
+{
+  "id": "Pacman_10",
+  "brandLabel": "Nothing",
+  "modelLabel": "Phone 2a (Android 10)",
+  "summary": "Dimensity 7200 - Android 10",
+  "profile": {
+    "brand": "nothing",
+    "manufacturer": "Nothing",
+    "model": "Phone 2a",
+    "device": "Pacman",
+    "product": "Pacman",
+    "board": "Pacman",
+    "hardware": "Pacman"
+  }
+}

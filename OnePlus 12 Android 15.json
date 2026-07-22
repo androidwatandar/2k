@@ -1,0 +1,15 @@
+{
+  "id": "waffle_15",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 12 (Android 15)",
+  "summary": "Snapdragon 8 Gen 3 - Android 15",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 12",
+    "device": "waffle",
+    "product": "waffle",
+    "board": "waffle",
+    "hardware": "waffle"
+  }
+}

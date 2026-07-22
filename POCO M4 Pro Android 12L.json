@@ -1,0 +1,15 @@
+{
+  "id": "fleur_12L",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO M4 Pro (Android 12L)",
+  "summary": "Dimensity 810 - Android 12L",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO M4 Pro",
+    "device": "fleur",
+    "product": "fleur",
+    "board": "fleur",
+    "hardware": "fleur"
+  }
+}

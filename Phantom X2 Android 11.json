@@ -1,0 +1,15 @@
+{
+  "id": "AD8_11",
+  "brandLabel": "Tecno",
+  "modelLabel": "Phantom X2 (Android 11)",
+  "summary": "Dimensity 9000 - Android 11",
+  "profile": {
+    "brand": "tecno",
+    "manufacturer": "Tecno",
+    "model": "Phantom X2",
+    "device": "AD8",
+    "product": "AD8",
+    "board": "AD8",
+    "hardware": "AD8"
+  }
+}

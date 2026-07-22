@@ -1,0 +1,15 @@
+{
+  "id": "amethyst_14",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 14 Pro+ (Android 14)",
+  "summary": "Dimensity 7350 - Android 14",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 14 Pro+",
+    "device": "amethyst",
+    "product": "amethyst",
+    "board": "amethyst",
+    "hardware": "amethyst"
+  }
+}

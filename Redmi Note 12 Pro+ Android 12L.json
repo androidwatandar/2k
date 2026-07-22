@@ -1,0 +1,15 @@
+{
+  "id": "rubyplus_12L",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 12 Pro+ (Android 12L)",
+  "summary": "Dimensity 1080 - Android 12L",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 12 Pro+",
+    "device": "rubyplus",
+    "product": "rubyplus",
+    "board": "rubyplus",
+    "hardware": "rubyplus"
+  }
+}

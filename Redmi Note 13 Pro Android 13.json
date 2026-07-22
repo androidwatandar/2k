@@ -1,0 +1,15 @@
+{
+  "id": "garnet_13",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 13 Pro (Android 13)",
+  "summary": "Snapdragon 7s Gen 2 - Android 13",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 13 Pro",
+    "device": "garnet",
+    "product": "garnet",
+    "board": "garnet",
+    "hardware": "garnet"
+  }
+}

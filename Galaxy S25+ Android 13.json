@@ -1,0 +1,15 @@
+{
+  "id": "f2s_13",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S25+ (Android 13)",
+  "summary": "Snapdragon 8 Elite - Android 13",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S25+",
+    "device": "f2s",
+    "product": "f2s",
+    "board": "f2s",
+    "hardware": "f2s"
+  }
+}

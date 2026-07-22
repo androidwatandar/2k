@@ -1,0 +1,15 @@
+{
+  "id": "sweet_13",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 10 Pro (Android 13)",
+  "summary": "Snapdragon 732G - Android 13",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 10 Pro",
+    "device": "sweet",
+    "product": "sweet",
+    "board": "sweet",
+    "hardware": "sweet"
+  }
+}

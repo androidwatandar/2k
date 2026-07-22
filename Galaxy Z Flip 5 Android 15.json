@@ -1,0 +1,15 @@
+{
+  "id": "b5q_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy Z Flip 5 (Android 15)",
+  "summary": "Snapdragon 8 Gen 2 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy Z Flip 5",
+    "device": "b5q",
+    "product": "b5q",
+    "board": "b5q",
+    "hardware": "b5q"
+  }
+}

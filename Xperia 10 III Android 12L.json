@@ -1,0 +1,15 @@
+{
+  "id": "pdx211_12L",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 10 III (Android 12L)",
+  "summary": "Snapdragon 690 - Android 12L",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 10 III",
+    "device": "pdx211",
+    "product": "pdx211",
+    "board": "pdx211",
+    "hardware": "pdx211"
+  }
+}

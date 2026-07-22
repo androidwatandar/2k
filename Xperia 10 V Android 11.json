@@ -1,0 +1,15 @@
+{
+  "id": "pdx236_11",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 10 V (Android 11)",
+  "summary": "Snapdragon 6 Gen 1 - Android 11",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 10 V",
+    "device": "pdx236",
+    "product": "pdx236",
+    "board": "pdx236",
+    "hardware": "pdx236"
+  }
+}

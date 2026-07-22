@@ -1,0 +1,15 @@
+{
+  "id": "ivan_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE 2 (Android 12L)",
+  "summary": "Dimensity 900 - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE 2",
+    "device": "ivan",
+    "product": "ivan",
+    "board": "ivan",
+    "hardware": "ivan"
+  }
+}

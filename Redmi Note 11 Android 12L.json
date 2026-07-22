@@ -1,0 +1,15 @@
+{
+  "id": "spes_12L",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 11 (Android 12L)",
+  "summary": "Snapdragon 680 - Android 12L",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 11",
+    "device": "spes",
+    "product": "spes",
+    "board": "spes",
+    "hardware": "spes"
+  }
+}

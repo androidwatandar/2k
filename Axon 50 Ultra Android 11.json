@@ -1,0 +1,15 @@
+{
+  "id": "A2024_11",
+  "brandLabel": "ZTE",
+  "modelLabel": "Axon 50 Ultra (Android 11)",
+  "summary": "Snapdragon 8 Gen 2 - Android 11",
+  "profile": {
+    "brand": "zte",
+    "manufacturer": "ZTE",
+    "model": "Axon 50 Ultra",
+    "device": "A2024",
+    "product": "A2024",
+    "board": "A2024",
+    "hardware": "A2024"
+  }
+}

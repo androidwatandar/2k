@@ -1,0 +1,15 @@
+{
+  "id": "pdx215_10",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 1 III (Android 10)",
+  "summary": "Snapdragon 888 - Android 10",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 1 III",
+    "device": "pdx215",
+    "product": "pdx215",
+    "board": "pdx215",
+    "hardware": "pdx215"
+  }
+}

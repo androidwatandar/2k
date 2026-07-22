@@ -1,0 +1,15 @@
+{
+  "id": "beryl_14",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 14 (Android 14)",
+  "summary": "Dimensity 6300 - Android 14",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 14",
+    "device": "beryl",
+    "product": "beryl",
+    "board": "beryl",
+    "hardware": "beryl"
+  }
+}

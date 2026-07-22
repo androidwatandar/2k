@@ -1,0 +1,15 @@
+{
+  "id": "tundra_15",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 30 Pro (Android 15)",
+  "summary": "Snapdragon 8 Gen 1 - Android 15",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 30 Pro",
+    "device": "tundra",
+    "product": "tundra",
+    "board": "tundra",
+    "hardware": "tundra"
+  }
+}

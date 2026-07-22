@@ -1,0 +1,15 @@
+{
+  "id": "thor_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12S Ultra (Android 12L)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12S Ultra",
+    "device": "thor",
+    "product": "thor",
+    "board": "thor",
+    "hardware": "thor"
+  }
+}

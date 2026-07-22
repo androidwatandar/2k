@@ -1,0 +1,15 @@
+{
+  "id": "a54_12L",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A54 (Android 12L)",
+  "summary": "Exynos 1380 - Android 12L",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A54",
+    "device": "a54",
+    "product": "a54",
+    "board": "a54",
+    "hardware": "a54"
+  }
+}

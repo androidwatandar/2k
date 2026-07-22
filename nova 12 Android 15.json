@@ -1,0 +1,15 @@
+{
+  "id": "BLK-AL00_15",
+  "brandLabel": "HUAWEI",
+  "modelLabel": "nova 12 (Android 15)",
+  "summary": "Kirin 830 - Android 15",
+  "profile": {
+    "brand": "huawei",
+    "manufacturer": "HUAWEI",
+    "model": "nova 12",
+    "device": "BLK-AL00",
+    "product": "BLK-AL00",
+    "board": "BLK-AL00",
+    "hardware": "BLK-AL00"
+  }
+}

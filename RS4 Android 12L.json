@@ -1,0 +1,15 @@
+{
+  "id": "S666LN_12L",
+  "brandLabel": "Itel",
+  "modelLabel": "RS4 (Android 12L)",
+  "summary": "Unisoc T606 - Android 12L",
+  "profile": {
+    "brand": "itel",
+    "manufacturer": "Itel",
+    "model": "RS4",
+    "device": "S666LN",
+    "product": "S666LN",
+    "board": "S666LN",
+    "hardware": "S666LN"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "r8q_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S20 FE (Android 12)",
+  "summary": "Snapdragon 865 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S20 FE",
+    "device": "r8q",
+    "product": "r8q",
+    "board": "r8q",
+    "hardware": "r8q"
+  }
+}

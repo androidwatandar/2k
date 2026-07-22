@@ -1,0 +1,15 @@
+{
+  "id": "venus_12",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 11 (Android 12)",
+  "summary": "Snapdragon 888 - Android 12",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 11",
+    "device": "venus",
+    "product": "venus",
+    "board": "venus",
+    "hardware": "venus"
+  }
+}

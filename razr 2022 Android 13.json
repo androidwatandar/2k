@@ -1,0 +1,15 @@
+{
+  "id": "lynkco_13",
+  "brandLabel": "Motorola",
+  "modelLabel": "razr 2022 (Android 13)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 13",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "razr 2022",
+    "device": "lynkco",
+    "product": "lynkco",
+    "board": "lynkco",
+    "hardware": "lynkco"
+  }
+}

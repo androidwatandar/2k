@@ -1,0 +1,15 @@
+{
+  "id": "dm1q_13",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S23 (Android 13)",
+  "summary": "Snapdragon 8 Gen 2 - Android 13",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S23",
+    "device": "dm1q",
+    "product": "dm1q",
+    "board": "dm1q",
+    "hardware": "dm1q"
+  }
+}

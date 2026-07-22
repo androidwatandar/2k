@@ -1,0 +1,15 @@
+{
+  "id": "a73_14",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A73 (Android 14)",
+  "summary": "Snapdragon 778G - Android 14",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A73",
+    "device": "a73",
+    "product": "a73",
+    "board": "a73",
+    "hardware": "a73"
+  }
+}

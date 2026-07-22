@@ -1,0 +1,15 @@
+{
+  "id": "instantnoodlep_12",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 8 Pro (Android 12)",
+  "summary": "Snapdragon 865 - Android 12",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 8 Pro",
+    "device": "instantnoodlep",
+    "product": "instantnoodlep",
+    "board": "instantnoodlep",
+    "hardware": "instantnoodlep"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sapphire_15",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 13 (Android 15)",
+  "summary": "Dimensity 6080 - Android 15",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 13",
+    "device": "sapphire",
+    "product": "sapphire",
+    "board": "sapphire",
+    "hardware": "sapphire"
+  }
+}

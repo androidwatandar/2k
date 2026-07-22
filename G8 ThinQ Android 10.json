@@ -1,0 +1,15 @@
+{
+  "id": "alphalm_10",
+  "brandLabel": "LG",
+  "modelLabel": "G8 ThinQ (Android 10)",
+  "summary": "Snapdragon 855 - Android 10",
+  "profile": {
+    "brand": "lg",
+    "manufacturer": "LGE",
+    "model": "G8 ThinQ",
+    "device": "alphalm",
+    "product": "alphalm",
+    "board": "alphalm",
+    "hardware": "alphalm"
+  }
+}

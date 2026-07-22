@@ -1,0 +1,15 @@
+{
+  "id": "ironman_11",
+  "brandLabel": "Nokia",
+  "modelLabel": "XR21 (Android 11)",
+  "summary": "Snapdragon 695 - Android 11",
+  "profile": {
+    "brand": "nokia",
+    "manufacturer": "Nokia",
+    "model": "XR21",
+    "device": "ironman",
+    "product": "ironman",
+    "board": "ironman",
+    "hardware": "ironman"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "akita_12",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 8a (Android 12)",
+  "summary": "Tensor G3 - Android 12",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 8a",
+    "device": "akita",
+    "product": "akita",
+    "board": "akita",
+    "hardware": "akita"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "PKK110_12L",
+  "brandLabel": "OPPO",
+  "modelLabel": "Reno 13 Pro (Android 12L)",
+  "summary": "Dimensity 8350 - Android 12L",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Reno 13 Pro",
+    "device": "PKK110",
+    "product": "PKK110",
+    "board": "PKK110",
+    "hardware": "PKK110"
+  }
+}

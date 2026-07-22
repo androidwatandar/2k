@@ -1,0 +1,15 @@
+{
+  "id": "fogosa_12L",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g85 (Android 12L)",
+  "summary": "Snapdragon 6 Gen 1 - Android 12L",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g85",
+    "device": "fogosa",
+    "product": "fogosa",
+    "board": "fogosa",
+    "hardware": "fogosa"
+  }
+}

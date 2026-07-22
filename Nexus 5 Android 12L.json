@@ -1,0 +1,15 @@
+{
+  "id": "hammerhead_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 5 (Android 12L)",
+  "summary": "Snapdragon 800 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 5",
+    "device": "hammerhead",
+    "product": "hammerhead",
+    "board": "hammerhead",
+    "hardware": "hammerhead"
+  }
+}

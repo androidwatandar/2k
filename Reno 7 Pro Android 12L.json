@@ -1,0 +1,15 @@
+{
+  "id": "PFDM00_12L",
+  "brandLabel": "OPPO",
+  "modelLabel": "Reno 7 Pro (Android 12L)",
+  "summary": "Dimensity 1200 - Android 12L",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Reno 7 Pro",
+    "device": "PFDM00",
+    "product": "PFDM00",
+    "board": "PFDM00",
+    "hardware": "PFDM00"
+  }
+}

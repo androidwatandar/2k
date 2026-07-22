@@ -1,0 +1,15 @@
+{
+  "id": "vicky_15",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g72 (Android 15)",
+  "summary": "Helio G99 - Android 15",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g72",
+    "device": "vicky",
+    "product": "vicky",
+    "board": "vicky",
+    "hardware": "vicky"
+  }
+}

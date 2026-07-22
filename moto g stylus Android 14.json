@@ -1,0 +1,15 @@
+{
+  "id": "sofiap_14",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g stylus (Android 14)",
+  "summary": "Snapdragon 665 - Android 14",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g stylus",
+    "device": "sofiap",
+    "product": "sofiap",
+    "board": "sofiap",
+    "hardware": "sofiap"
+  }
+}

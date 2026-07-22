@@ -1,0 +1,15 @@
+{
+  "id": "munch_13",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F4 (Android 13)",
+  "summary": "Snapdragon 870 - Android 13",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F4",
+    "device": "munch",
+    "product": "munch",
+    "board": "munch",
+    "hardware": "munch"
+  }
+}

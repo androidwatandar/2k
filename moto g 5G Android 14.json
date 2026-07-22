@@ -1,0 +1,15 @@
+{
+  "id": "austin_14",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g 5G (Android 14)",
+  "summary": "Snapdragon 480 - Android 14",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g 5G",
+    "device": "austin",
+    "product": "austin",
+    "board": "austin",
+    "hardware": "austin"
+  }
+}

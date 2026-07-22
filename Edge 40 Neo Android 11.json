@@ -1,0 +1,15 @@
+{
+  "id": "manaus_11",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 40 Neo (Android 11)",
+  "summary": "Dimensity 7030 - Android 11",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 40 Neo",
+    "device": "manaus",
+    "product": "manaus",
+    "board": "manaus",
+    "hardware": "manaus"
+  }
+}

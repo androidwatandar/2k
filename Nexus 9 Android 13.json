@@ -1,0 +1,15 @@
+{
+  "id": "flounder_13",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 9 (Android 13)",
+  "summary": "Tegra K1 - Android 13",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 9",
+    "device": "flounder",
+    "product": "flounder",
+    "board": "flounder",
+    "hardware": "flounder"
+  }
+}

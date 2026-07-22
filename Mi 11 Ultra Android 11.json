@@ -1,0 +1,15 @@
+{
+  "id": "star_11",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 11 Ultra (Android 11)",
+  "summary": "Snapdragon 888 - Android 11",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 11 Ultra",
+    "device": "star",
+    "product": "star",
+    "board": "star",
+    "hardware": "star"
+  }
+}

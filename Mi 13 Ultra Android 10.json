@@ -1,0 +1,15 @@
+{
+  "id": "ishtar_10",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 13 Ultra (Android 10)",
+  "summary": "Snapdragon 8 Gen 2 - Android 10",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 13 Ultra",
+    "device": "ishtar",
+    "product": "ishtar",
+    "board": "ishtar",
+    "hardware": "ishtar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ctwo_15",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 50 (Android 15)",
+  "summary": "Dimensity 7300 - Android 15",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 50",
+    "device": "ctwo",
+    "product": "ctwo",
+    "board": "ctwo",
+    "hardware": "ctwo"
+  }
+}

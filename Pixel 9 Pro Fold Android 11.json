@@ -1,0 +1,15 @@
+{
+  "id": "comet_11",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 9 Pro Fold (Android 11)",
+  "summary": "Tensor G4 - Android 11",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 9 Pro Fold",
+    "device": "comet",
+    "product": "comet",
+    "board": "comet",
+    "hardware": "comet"
+  }
+}

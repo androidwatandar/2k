@@ -1,0 +1,15 @@
+{
+  "id": "a24_13",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A24 (Android 13)",
+  "summary": "MediaTek - Android 13",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A24",
+    "device": "a24",
+    "product": "a24",
+    "board": "a24",
+    "hardware": "a24"
+  }
+}

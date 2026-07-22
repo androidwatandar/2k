@@ -1,0 +1,15 @@
+{
+  "id": "duchamp_14",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO X6 Pro (Android 14)",
+  "summary": "Dimensity 8300 - Android 14",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO X6 Pro",
+    "device": "duchamp",
+    "product": "duchamp",
+    "board": "duchamp",
+    "hardware": "duchamp"
+  }
+}

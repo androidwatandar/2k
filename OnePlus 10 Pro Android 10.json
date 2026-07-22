@@ -1,0 +1,15 @@
+{
+  "id": "negroni_10",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 10 Pro (Android 10)",
+  "summary": "Snapdragon 8 Gen 1 - Android 10",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 10 Pro",
+    "device": "negroni",
+    "product": "negroni",
+    "board": "negroni",
+    "hardware": "negroni"
+  }
+}

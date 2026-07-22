@@ -1,0 +1,15 @@
+{
+  "id": "PKC110_12L",
+  "brandLabel": "OPPO",
+  "modelLabel": "Find X8 Pro (Android 12L)",
+  "summary": "Dimensity 9400 - Android 12L",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Find X8 Pro",
+    "device": "PKC110",
+    "product": "PKC110",
+    "board": "PKC110",
+    "hardware": "PKC110"
+  }
+}

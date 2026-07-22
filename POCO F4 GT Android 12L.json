@@ -1,0 +1,15 @@
+{
+  "id": "ingres_12L",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F4 GT (Android 12L)",
+  "summary": "Snapdragon 8 Gen 1 - Android 12L",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F4 GT",
+    "device": "ingres",
+    "product": "ingres",
+    "board": "ingres",
+    "hardware": "ingres"
+  }
+}

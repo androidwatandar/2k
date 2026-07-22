@@ -1,0 +1,15 @@
+{
+  "id": "a73_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A73 (Android 10)",
+  "summary": "Snapdragon 778G - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A73",
+    "device": "a73",
+    "product": "a73",
+    "board": "a73",
+    "hardware": "a73"
+  }
+}

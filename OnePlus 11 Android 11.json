@@ -1,0 +1,15 @@
+{
+  "id": "salami_11",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 11 (Android 11)",
+  "summary": "Snapdragon 8 Gen 2 - Android 11",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 11",
+    "device": "salami",
+    "product": "salami",
+    "board": "salami",
+    "hardware": "salami"
+  }
+}

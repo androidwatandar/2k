@@ -1,0 +1,15 @@
+{
+  "id": "zeekr_11",
+  "brandLabel": "Motorola",
+  "modelLabel": "razr 2023 (Android 11)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 11",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "razr 2023",
+    "device": "zeekr",
+    "product": "zeekr",
+    "board": "zeekr",
+    "hardware": "zeekr"
+  }
+}

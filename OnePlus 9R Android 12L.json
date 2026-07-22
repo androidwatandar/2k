@@ -1,0 +1,15 @@
+{
+  "id": "lemonades_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 9R (Android 12L)",
+  "summary": "Snapdragon 870 - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 9R",
+    "device": "lemonades",
+    "product": "lemonades",
+    "board": "lemonades",
+    "hardware": "lemonades"
+  }
+}

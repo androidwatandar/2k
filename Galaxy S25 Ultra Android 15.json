@@ -1,0 +1,15 @@
+{
+  "id": "f3s_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S25 Ultra (Android 15)",
+  "summary": "Snapdragon 8 Elite - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S25 Ultra",
+    "device": "f3s",
+    "product": "f3s",
+    "board": "f3s",
+    "hardware": "f3s"
+  }
+}

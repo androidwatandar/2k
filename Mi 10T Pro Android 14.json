@@ -1,0 +1,15 @@
+{
+  "id": "apollo_pro_14",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 10T Pro (Android 14)",
+  "summary": "Snapdragon 865 - Android 14",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 10T Pro",
+    "device": "apollo_pro",
+    "product": "apollo_pro",
+    "board": "apollo_pro",
+    "hardware": "apollo_pro"
+  }
+}

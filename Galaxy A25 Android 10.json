@@ -1,0 +1,15 @@
+{
+  "id": "a25_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A25 (Android 10)",
+  "summary": "Exynos 1280 - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A25",
+    "device": "a25",
+    "product": "a25",
+    "board": "a25",
+    "hardware": "a25"
+  }
+}

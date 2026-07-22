@@ -1,0 +1,15 @@
+{
+  "id": "flame_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 4 (Android 10)",
+  "summary": "Snapdragon 855 - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 4",
+    "device": "flame",
+    "product": "flame",
+    "board": "flame",
+    "hardware": "flame"
+  }
+}

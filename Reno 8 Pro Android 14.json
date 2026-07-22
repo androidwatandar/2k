@@ -1,0 +1,15 @@
+{
+  "id": "PGAM10_14",
+  "brandLabel": "OPPO",
+  "modelLabel": "Reno 8 Pro (Android 14)",
+  "summary": "Snapdragon 7 Gen 1 - Android 14",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Reno 8 Pro",
+    "device": "PGAM10",
+    "product": "PGAM10",
+    "board": "PGAM10",
+    "hardware": "PGAM10"
+  }
+}

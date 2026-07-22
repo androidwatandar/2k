@@ -1,0 +1,15 @@
+{
+  "id": "alioth_12L",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi K40 (Android 12L)",
+  "summary": "Snapdragon 870 - Android 12L",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi K40",
+    "device": "alioth",
+    "product": "alioth",
+    "board": "alioth",
+    "hardware": "alioth"
+  }
+}

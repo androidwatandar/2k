@@ -1,0 +1,15 @@
+{
+  "id": "timelm_11",
+  "brandLabel": "LG",
+  "modelLabel": "V60 ThinQ (Android 11)",
+  "summary": "Snapdragon 865 - Android 11",
+  "profile": {
+    "brand": "lg",
+    "manufacturer": "LGE",
+    "model": "V60 ThinQ",
+    "device": "timelm",
+    "product": "timelm",
+    "board": "timelm",
+    "hardware": "timelm"
+  }
+}

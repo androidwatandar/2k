@@ -1,0 +1,15 @@
+{
+  "id": "lynx_11",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 7a (Android 11)",
+  "summary": "Tensor G2 - Android 11",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 7a",
+    "device": "lynx",
+    "product": "lynx",
+    "board": "lynx",
+    "hardware": "lynx"
+  }
+}

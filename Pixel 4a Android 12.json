@@ -1,0 +1,15 @@
+{
+  "id": "sunfish_12",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 4a (Android 12)",
+  "summary": "Snapdragon 730G - Android 12",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 4a",
+    "device": "sunfish",
+    "product": "sunfish",
+    "board": "sunfish",
+    "hardware": "sunfish"
+  }
+}

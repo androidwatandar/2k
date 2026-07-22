@@ -1,0 +1,15 @@
+{
+  "id": "peridot_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F6 (Android 15)",
+  "summary": "Snapdragon 8s Gen 3 - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F6",
+    "device": "peridot",
+    "product": "peridot",
+    "board": "peridot",
+    "hardware": "peridot"
+  }
+}

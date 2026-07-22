@@ -1,0 +1,15 @@
+{
+  "id": "pdx203_13",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 1 II (Android 13)",
+  "summary": "Snapdragon 865 - Android 13",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 1 II",
+    "device": "pdx203",
+    "product": "pdx203",
+    "board": "pdx203",
+    "hardware": "pdx203"
+  }
+}

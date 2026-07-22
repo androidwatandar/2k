@@ -1,0 +1,15 @@
+{
+  "id": "berlin_15",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 20 (Android 15)",
+  "summary": "Snapdragon 778G - Android 15",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 20",
+    "device": "berlin",
+    "product": "berlin",
+    "board": "berlin",
+    "hardware": "berlin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ziti_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE 3 (Android 12L)",
+  "summary": "Snapdragon 695 - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE 3",
+    "device": "ziti",
+    "product": "ziti",
+    "board": "ziti",
+    "hardware": "ziti"
+  }
+}

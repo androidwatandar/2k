@@ -1,0 +1,15 @@
+{
+  "id": "rubens_15",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi K50 (Android 15)",
+  "summary": "Dimensity 8100 - Android 15",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi K50",
+    "device": "rubens",
+    "product": "rubens",
+    "board": "rubens",
+    "hardware": "rubens"
+  }
+}

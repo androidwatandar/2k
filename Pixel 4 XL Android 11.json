@@ -1,0 +1,15 @@
+{
+  "id": "coral_11",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 4 XL (Android 11)",
+  "summary": "Snapdragon 855 - Android 11",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 4 XL",
+    "device": "coral",
+    "product": "coral",
+    "board": "coral",
+    "hardware": "coral"
+  }
+}

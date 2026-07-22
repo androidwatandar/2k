@@ -1,0 +1,15 @@
+{
+  "id": "m14_14",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy M14 (Android 14)",
+  "summary": "Exynos 1330 - Android 14",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy M14",
+    "device": "m14",
+    "product": "m14",
+    "board": "m14",
+    "hardware": "m14"
+  }
+}

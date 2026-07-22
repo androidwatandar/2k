@@ -1,0 +1,15 @@
+{
+  "id": "PGX110_12",
+  "brandLabel": "OPPO",
+  "modelLabel": "Reno 9 Pro (Android 12)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 12",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Reno 9 Pro",
+    "device": "PGX110",
+    "product": "PGX110",
+    "board": "PGX110",
+    "hardware": "PGX110"
+  }
+}

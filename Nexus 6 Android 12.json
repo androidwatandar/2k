@@ -1,0 +1,15 @@
+{
+  "id": "shamu_12",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 6 (Android 12)",
+  "summary": "Snapdragon 805 - Android 12",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 6",
+    "device": "shamu",
+    "product": "shamu",
+    "board": "shamu",
+    "hardware": "shamu"
+  }
+}

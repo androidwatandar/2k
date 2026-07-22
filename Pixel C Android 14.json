@@ -1,0 +1,15 @@
+{
+  "id": "dragon_14",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel C (Android 14)",
+  "summary": "Tegra X1 - Android 14",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel C",
+    "device": "dragon",
+    "product": "dragon",
+    "board": "dragon",
+    "hardware": "dragon"
+  }
+}

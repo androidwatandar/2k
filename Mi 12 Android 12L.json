@@ -1,0 +1,15 @@
+{
+  "id": "cupid_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12 (Android 12L)",
+  "summary": "Snapdragon 8 Gen 1 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12",
+    "device": "cupid",
+    "product": "cupid",
+    "board": "cupid",
+    "hardware": "cupid"
+  }
+}

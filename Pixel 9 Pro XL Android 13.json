@@ -1,0 +1,15 @@
+{
+  "id": "komodo_13",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 9 Pro XL (Android 13)",
+  "summary": "Tensor G4 - Android 13",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 9 Pro XL",
+    "device": "komodo",
+    "product": "komodo",
+    "board": "komodo",
+    "hardware": "komodo"
+  }
+}

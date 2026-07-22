@@ -1,0 +1,15 @@
+{
+  "id": "alphalm_12L",
+  "brandLabel": "LG",
+  "modelLabel": "G8 ThinQ (Android 12L)",
+  "summary": "Snapdragon 855 - Android 12L",
+  "profile": {
+    "brand": "lg",
+    "manufacturer": "LGE",
+    "model": "G8 ThinQ",
+    "device": "alphalm",
+    "product": "alphalm",
+    "board": "alphalm",
+    "hardware": "alphalm"
+  }
+}

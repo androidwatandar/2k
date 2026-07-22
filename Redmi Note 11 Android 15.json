@@ -1,0 +1,15 @@
+{
+  "id": "spes_15",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 11 (Android 15)",
+  "summary": "Snapdragon 680 - Android 15",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 11",
+    "device": "spes",
+    "product": "spes",
+    "board": "spes",
+    "hardware": "spes"
+  }
+}

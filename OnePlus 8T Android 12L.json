@@ -1,0 +1,15 @@
+{
+  "id": "kebab_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 8T (Android 12L)",
+  "summary": "Snapdragon 865 - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 8T",
+    "device": "kebab",
+    "product": "kebab",
+    "board": "kebab",
+    "hardware": "kebab"
+  }
+}

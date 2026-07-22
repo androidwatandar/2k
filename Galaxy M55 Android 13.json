@@ -1,0 +1,15 @@
+{
+  "id": "m55_13",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy M55 (Android 13)",
+  "summary": "Snapdragon 7 Gen 1 - Android 13",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy M55",
+    "device": "m55",
+    "product": "m55",
+    "board": "m55",
+    "hardware": "m55"
+  }
+}

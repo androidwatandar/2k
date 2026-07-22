@@ -1,0 +1,15 @@
+{
+  "id": "f2s_11",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S25+ (Android 11)",
+  "summary": "Snapdragon 8 Elite - Android 11",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S25+",
+    "device": "f2s",
+    "product": "f2s",
+    "board": "f2s",
+    "hardware": "f2s"
+  }
+}

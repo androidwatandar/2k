@@ -1,0 +1,15 @@
+{
+  "id": "pdx201_15",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 10 II (Android 15)",
+  "summary": "Snapdragon 665 - Android 15",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 10 II",
+    "device": "pdx201",
+    "product": "pdx201",
+    "board": "pdx201",
+    "hardware": "pdx201"
+  }
+}

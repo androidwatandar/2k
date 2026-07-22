@@ -1,0 +1,15 @@
+{
+  "id": "sofia_14",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g power (Android 14)",
+  "summary": "Snapdragon 662 - Android 14",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g power",
+    "device": "sofia",
+    "product": "sofia",
+    "board": "sofia",
+    "hardware": "sofia"
+  }
+}

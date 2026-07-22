@@ -1,0 +1,15 @@
+{
+  "id": "AI2402_11",
+  "brandLabel": "ASUS",
+  "modelLabel": "ZenFone 11 (Android 11)",
+  "summary": "Snapdragon 8 Gen 3 - Android 11",
+  "profile": {
+    "brand": "asus",
+    "manufacturer": "asus",
+    "model": "ZenFone 11",
+    "device": "AI2402",
+    "product": "AI2402",
+    "board": "AI2402",
+    "hardware": "AI2402"
+  }
+}

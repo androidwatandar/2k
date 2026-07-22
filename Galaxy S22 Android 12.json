@@ -1,0 +1,15 @@
+{
+  "id": "r0s_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S22 (Android 12)",
+  "summary": "Exynos 2200 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S22",
+    "device": "r0s",
+    "product": "r0s",
+    "board": "r0s",
+    "hardware": "r0s"
+  }
+}

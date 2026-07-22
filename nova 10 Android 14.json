@@ -1,0 +1,15 @@
+{
+  "id": "GLA-AL00_14",
+  "brandLabel": "HUAWEI",
+  "modelLabel": "nova 10 (Android 14)",
+  "summary": "Snapdragon 778G - Android 14",
+  "profile": {
+    "brand": "huawei",
+    "manufacturer": "HUAWEI",
+    "model": "nova 10",
+    "device": "GLA-AL00",
+    "product": "GLA-AL00",
+    "board": "GLA-AL00",
+    "hardware": "GLA-AL00"
+  }
+}

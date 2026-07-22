@@ -1,0 +1,15 @@
+{
+  "id": "caiman_15",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 9 Pro (Android 15)",
+  "summary": "Tensor G4 - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 9 Pro",
+    "device": "caiman",
+    "product": "caiman",
+    "board": "caiman",
+    "hardware": "caiman"
+  }
+}

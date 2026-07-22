@@ -1,0 +1,15 @@
+{
+  "id": "e3s_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S24 Ultra (Android 15)",
+  "summary": "Snapdragon 8 Gen 3 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S24 Ultra",
+    "device": "e3s",
+    "product": "e3s",
+    "board": "e3s",
+    "hardware": "e3s"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ruby_11",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 12 Pro (Android 11)",
+  "summary": "Dimensity 1080 - Android 11",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 12 Pro",
+    "device": "ruby",
+    "product": "ruby",
+    "board": "ruby",
+    "hardware": "ruby"
+  }
+}

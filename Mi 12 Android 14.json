@@ -1,0 +1,15 @@
+{
+  "id": "cupid_14",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12 (Android 14)",
+  "summary": "Snapdragon 8 Gen 1 - Android 14",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12",
+    "device": "cupid",
+    "product": "cupid",
+    "board": "cupid",
+    "hardware": "cupid"
+  }
+}

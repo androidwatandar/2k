@@ -1,0 +1,15 @@
+{
+  "id": "shennong_11",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 14 Pro (Android 11)",
+  "summary": "Snapdragon 8 Gen 3 - Android 11",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 14 Pro",
+    "device": "shennong",
+    "product": "shennong",
+    "board": "shennong",
+    "hardware": "shennong"
+  }
+}

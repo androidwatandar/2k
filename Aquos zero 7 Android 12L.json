@@ -1,0 +1,15 @@
+{
+  "id": "SH-R10_12L",
+  "brandLabel": "Sharp",
+  "modelLabel": "Aquos zero 7 (Android 12L)",
+  "summary": "Snapdragon 695 - Android 12L",
+  "profile": {
+    "brand": "sharp",
+    "manufacturer": "SHARP",
+    "model": "Aquos zero 7",
+    "device": "SH-R10",
+    "product": "SH-R10",
+    "board": "SH-R10",
+    "hardware": "SH-R10"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rodin_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F7 (Android 15)",
+  "summary": "Snapdragon 8 Elite - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F7",
+    "device": "rodin",
+    "product": "rodin",
+    "board": "rodin",
+    "hardware": "rodin"
+  }
+}

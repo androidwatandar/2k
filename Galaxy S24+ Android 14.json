@@ -1,0 +1,15 @@
+{
+  "id": "e2s_14",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S24+ (Android 14)",
+  "summary": "Snapdragon 8 Gen 3 - Android 14",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S24+",
+    "device": "e2s",
+    "product": "e2s",
+    "board": "e2s",
+    "hardware": "e2s"
+  }
+}

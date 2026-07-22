@@ -1,0 +1,15 @@
+{
+  "id": "redwood_12L",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO X5 Pro (Android 12L)",
+  "summary": "Snapdragon 778G - Android 12L",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO X5 Pro",
+    "device": "redwood",
+    "product": "redwood",
+    "board": "redwood",
+    "hardware": "redwood"
+  }
+}

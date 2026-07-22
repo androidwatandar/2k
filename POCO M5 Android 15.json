@@ -1,0 +1,15 @@
+{
+  "id": "rock_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO M5 (Android 15)",
+  "summary": "Snapdragon 680 - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO M5",
+    "device": "rock",
+    "product": "rock",
+    "board": "rock",
+    "hardware": "rock"
+  }
+}

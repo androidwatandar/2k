@@ -1,0 +1,15 @@
+{
+  "id": "xuanyuan_11",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 15 Ultra (Android 11)",
+  "summary": "Snapdragon 8 Elite - Android 11",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 15 Ultra",
+    "device": "xuanyuan",
+    "product": "xuanyuan",
+    "board": "xuanyuan",
+    "hardware": "xuanyuan"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a35_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A35 (Android 10)",
+  "summary": "Exynos 1380 - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A35",
+    "device": "a35",
+    "product": "a35",
+    "board": "a35",
+    "hardware": "a35"
+  }
+}

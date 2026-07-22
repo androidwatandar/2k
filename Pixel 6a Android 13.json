@@ -1,0 +1,15 @@
+{
+  "id": "bluejay_13",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 6a (Android 13)",
+  "summary": "Tensor - Android 13",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 6a",
+    "device": "bluejay",
+    "product": "bluejay",
+    "board": "bluejay",
+    "hardware": "bluejay"
+  }
+}

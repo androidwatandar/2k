@@ -1,0 +1,15 @@
+{
+  "id": "cmi_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 10 Pro (Android 12L)",
+  "summary": "Snapdragon 865 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 10 Pro",
+    "device": "cmi",
+    "product": "cmi",
+    "board": "cmi",
+    "hardware": "cmi"
+  }
+}

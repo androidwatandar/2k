@@ -1,0 +1,15 @@
+{
+  "id": "viva_12",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 11 Pro (Android 12)",
+  "summary": "Dimensity 920 - Android 12",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 11 Pro",
+    "device": "viva",
+    "product": "viva",
+    "board": "viva",
+    "hardware": "viva"
+  }
+}

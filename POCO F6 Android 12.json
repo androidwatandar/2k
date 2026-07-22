@@ -1,0 +1,15 @@
+{
+  "id": "peridot_12",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F6 (Android 12)",
+  "summary": "Snapdragon 8s Gen 3 - Android 12",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F6",
+    "device": "peridot",
+    "product": "peridot",
+    "board": "peridot",
+    "hardware": "peridot"
+  }
+}

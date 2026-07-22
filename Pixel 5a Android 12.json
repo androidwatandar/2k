@@ -1,0 +1,15 @@
+{
+  "id": "barbet_12",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 5a (Android 12)",
+  "summary": "Snapdragon 765G - Android 12",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 5a",
+    "device": "barbet",
+    "product": "barbet",
+    "board": "barbet",
+    "hardware": "barbet"
+  }
+}

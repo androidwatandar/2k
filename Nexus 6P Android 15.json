@@ -1,0 +1,15 @@
+{
+  "id": "angler_15",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 6P (Android 15)",
+  "summary": "Snapdragon 810 - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 6P",
+    "device": "angler",
+    "product": "angler",
+    "board": "angler",
+    "hardware": "angler"
+  }
+}

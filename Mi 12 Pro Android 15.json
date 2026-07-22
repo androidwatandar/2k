@@ -1,0 +1,15 @@
+{
+  "id": "zeus_15",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12 Pro (Android 15)",
+  "summary": "Snapdragon 8 Gen 1 - Android 15",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12 Pro",
+    "device": "zeus",
+    "product": "zeus",
+    "board": "zeus",
+    "hardware": "zeus"
+  }
+}

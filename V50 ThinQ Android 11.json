@@ -1,0 +1,15 @@
+{
+  "id": "flashlm_11",
+  "brandLabel": "LG",
+  "modelLabel": "V50 ThinQ (Android 11)",
+  "summary": "Snapdragon 855 - Android 11",
+  "profile": {
+    "brand": "lg",
+    "manufacturer": "LGE",
+    "model": "V50 ThinQ",
+    "device": "flashlm",
+    "product": "flashlm",
+    "board": "flashlm",
+    "hardware": "flashlm"
+  }
+}

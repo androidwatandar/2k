@@ -1,0 +1,15 @@
+{
+  "id": "zircon_14",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 13 Pro+ (Android 14)",
+  "summary": "Dimensity 7200 - Android 14",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 13 Pro+",
+    "device": "zircon",
+    "product": "zircon",
+    "board": "zircon",
+    "hardware": "zircon"
+  }
+}

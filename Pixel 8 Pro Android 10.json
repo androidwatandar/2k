@@ -1,0 +1,15 @@
+{
+  "id": "husky_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 8 Pro (Android 10)",
+  "summary": "Tensor G3 - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 8 Pro",
+    "device": "husky",
+    "product": "husky",
+    "board": "husky",
+    "hardware": "husky"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tangorpro_11",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel Tablet (Android 11)",
+  "summary": "Tensor G2 - Android 11",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel Tablet",
+    "device": "tangorpro",
+    "product": "tangorpro",
+    "board": "tangorpro",
+    "hardware": "tangorpro"
+  }
+}

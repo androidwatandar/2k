@@ -1,0 +1,15 @@
+{
+  "id": "felix_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel Fold (Android 10)",
+  "summary": "Tensor G2 - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel Fold",
+    "device": "felix",
+    "product": "felix",
+    "board": "felix",
+    "hardware": "felix"
+  }
+}

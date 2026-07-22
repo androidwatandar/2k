@@ -1,0 +1,15 @@
+{
+  "id": "htc_bymdugl_pro_12L",
+  "brandLabel": "HTC",
+  "modelLabel": "Desire 21 Pro (Android 12L)",
+  "summary": "Snapdragon 690 - Android 12L",
+  "profile": {
+    "brand": "htc",
+    "manufacturer": "HTC",
+    "model": "Desire 21 Pro",
+    "device": "htc_bymdugl_pro",
+    "product": "htc_bymdugl_pro",
+    "board": "htc_bymdugl_pro",
+    "hardware": "htc_bymdugl_pro"
+  }
+}

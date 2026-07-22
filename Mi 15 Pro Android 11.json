@@ -1,0 +1,15 @@
+{
+  "id": "haotian_11",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 15 Pro (Android 11)",
+  "summary": "Snapdragon 8 Elite - Android 11",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 15 Pro",
+    "device": "haotian",
+    "product": "haotian",
+    "board": "haotian",
+    "hardware": "haotian"
+  }
+}

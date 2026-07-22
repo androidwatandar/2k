@@ -1,0 +1,15 @@
+{
+  "id": "pdx206_12L",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 5 II (Android 12L)",
+  "summary": "Snapdragon 865 - Android 12L",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 5 II",
+    "device": "pdx206",
+    "product": "pdx206",
+    "board": "pdx206",
+    "hardware": "pdx206"
+  }
+}

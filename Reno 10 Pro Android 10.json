@@ -1,0 +1,15 @@
+{
+  "id": "PHQ110_10",
+  "brandLabel": "OPPO",
+  "modelLabel": "Reno 10 Pro (Android 10)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 10",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Reno 10 Pro",
+    "device": "PHQ110",
+    "product": "PHQ110",
+    "board": "PHQ110",
+    "hardware": "PHQ110"
+  }
+}

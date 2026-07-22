@@ -1,0 +1,15 @@
+{
+  "id": "fleur_13",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO M4 Pro (Android 13)",
+  "summary": "Dimensity 810 - Android 13",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO M4 Pro",
+    "device": "fleur",
+    "product": "fleur",
+    "board": "fleur",
+    "hardware": "fleur"
+  }
+}

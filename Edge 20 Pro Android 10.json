@@ -1,0 +1,15 @@
+{
+  "id": "pstar_10",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 20 Pro (Android 10)",
+  "summary": "Snapdragon 870 - Android 10",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 20 Pro",
+    "device": "pstar",
+    "product": "pstar",
+    "board": "pstar",
+    "hardware": "pstar"
+  }
+}

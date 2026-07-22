@@ -1,0 +1,15 @@
+{
+  "id": "ivan_14",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE 2 (Android 14)",
+  "summary": "Dimensity 900 - Android 14",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE 2",
+    "device": "ivan",
+    "product": "ivan",
+    "board": "ivan",
+    "hardware": "ivan"
+  }
+}

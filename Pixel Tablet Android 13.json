@@ -1,0 +1,15 @@
+{
+  "id": "tangorpro_13",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel Tablet (Android 13)",
+  "summary": "Tensor G2 - Android 13",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel Tablet",
+    "device": "tangorpro",
+    "product": "tangorpro",
+    "board": "tangorpro",
+    "hardware": "tangorpro"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sofiap_12",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g stylus (Android 12)",
+  "summary": "Snapdragon 665 - Android 12",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g stylus",
+    "device": "sofiap",
+    "product": "sofiap",
+    "board": "sofiap",
+    "hardware": "sofiap"
+  }
+}

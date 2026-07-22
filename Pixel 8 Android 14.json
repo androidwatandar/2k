@@ -1,0 +1,15 @@
+{
+  "id": "shiba_14",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 8 (Android 14)",
+  "summary": "Tensor G3 - Android 14",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 8",
+    "device": "shiba",
+    "product": "shiba",
+    "board": "shiba",
+    "hardware": "shiba"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sofia_12L",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g power (Android 12L)",
+  "summary": "Snapdragon 662 - Android 12L",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g power",
+    "device": "sofia",
+    "product": "sofia",
+    "board": "sofia",
+    "hardware": "sofia"
+  }
+}

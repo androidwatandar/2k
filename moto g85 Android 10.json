@@ -1,0 +1,15 @@
+{
+  "id": "fogosa_10",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g85 (Android 10)",
+  "summary": "Snapdragon 6 Gen 1 - Android 10",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g85",
+    "device": "fogosa",
+    "product": "fogosa",
+    "board": "fogosa",
+    "hardware": "fogosa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dubai_10",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 30 (Android 10)",
+  "summary": "Snapdragon 778G+ - Android 10",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 30",
+    "device": "dubai",
+    "product": "dubai",
+    "board": "dubai",
+    "hardware": "dubai"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "apollo_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 10T (Android 12L)",
+  "summary": "Snapdragon 865 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 10T",
+    "device": "apollo",
+    "product": "apollo",
+    "board": "apollo",
+    "hardware": "apollo"
+  }
+}

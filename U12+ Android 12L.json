@@ -1,0 +1,15 @@
+{
+  "id": "htc_imedugl_12L",
+  "brandLabel": "HTC",
+  "modelLabel": "U12+ (Android 12L)",
+  "summary": "Snapdragon 845 - Android 12L",
+  "profile": {
+    "brand": "htc",
+    "manufacturer": "HTC",
+    "model": "U12+",
+    "device": "htc_imedugl",
+    "product": "htc_imedugl",
+    "board": "htc_imedugl",
+    "hardware": "htc_imedugl"
+  }
+}

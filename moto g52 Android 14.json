@@ -1,0 +1,15 @@
+{
+  "id": "rhode_14",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g52 (Android 14)",
+  "summary": "Snapdragon 680 - Android 14",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g52",
+    "device": "rhode",
+    "product": "rhode",
+    "board": "rhode",
+    "hardware": "rhode"
+  }
+}

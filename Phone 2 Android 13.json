@@ -1,0 +1,15 @@
+{
+  "id": "Pong_13",
+  "brandLabel": "Nothing",
+  "modelLabel": "Phone 2 (Android 13)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 13",
+  "profile": {
+    "brand": "nothing",
+    "manufacturer": "Nothing",
+    "model": "Phone 2",
+    "device": "Pong",
+    "product": "Pong",
+    "board": "Pong",
+    "hardware": "Pong"
+  }
+}

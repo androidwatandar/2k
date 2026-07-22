@@ -1,0 +1,15 @@
+{
+  "id": "pdx215_11",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 1 III (Android 11)",
+  "summary": "Snapdragon 888 - Android 11",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 1 III",
+    "device": "pdx215",
+    "product": "pdx215",
+    "board": "pdx215",
+    "hardware": "pdx215"
+  }
+}

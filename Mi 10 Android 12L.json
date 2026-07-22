@@ -1,0 +1,15 @@
+{
+  "id": "umi_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 10 (Android 12L)",
+  "summary": "Snapdragon 865 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 10",
+    "device": "umi",
+    "product": "umi",
+    "board": "umi",
+    "hardware": "umi"
+  }
+}

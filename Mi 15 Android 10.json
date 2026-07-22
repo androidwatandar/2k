@@ -1,0 +1,15 @@
+{
+  "id": "dada_10",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 15 (Android 10)",
+  "summary": "Snapdragon 8 Elite - Android 10",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 15",
+    "device": "dada",
+    "product": "dada",
+    "board": "dada",
+    "hardware": "dada"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f3s_12L",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S25 Ultra (Android 12L)",
+  "summary": "Snapdragon 8 Elite - Android 12L",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S25 Ultra",
+    "device": "f3s",
+    "product": "f3s",
+    "board": "f3s",
+    "hardware": "f3s"
+  }
+}

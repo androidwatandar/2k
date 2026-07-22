@@ -1,0 +1,15 @@
+{
+  "id": "rhode_12",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g52 (Android 12)",
+  "summary": "Snapdragon 680 - Android 12",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g52",
+    "device": "rhode",
+    "product": "rhode",
+    "board": "rhode",
+    "hardware": "rhode"
+  }
+}

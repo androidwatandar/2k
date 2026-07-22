@@ -1,0 +1,15 @@
+{
+  "id": "a15_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A15 (Android 10)",
+  "summary": "MediaTek - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A15",
+    "device": "a15",
+    "product": "a15",
+    "board": "a15",
+    "hardware": "a15"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pdx206_13",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 5 II (Android 13)",
+  "summary": "Snapdragon 865 - Android 13",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 5 II",
+    "device": "pdx206",
+    "product": "pdx206",
+    "board": "pdx206",
+    "hardware": "pdx206"
+  }
+}

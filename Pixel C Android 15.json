@@ -1,0 +1,15 @@
+{
+  "id": "dragon_15",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel C (Android 15)",
+  "summary": "Tegra X1 - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel C",
+    "device": "dragon",
+    "product": "dragon",
+    "board": "dragon",
+    "hardware": "dragon"
+  }
+}

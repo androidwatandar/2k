@@ -1,0 +1,15 @@
+{
+  "id": "shiba_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 8 (Android 12L)",
+  "summary": "Tensor G3 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 8",
+    "device": "shiba",
+    "product": "shiba",
+    "board": "shiba",
+    "hardware": "shiba"
+  }
+}

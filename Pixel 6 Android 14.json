@@ -1,0 +1,15 @@
+{
+  "id": "oriole_14",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 6 (Android 14)",
+  "summary": "Tensor - Android 14",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 6",
+    "device": "oriole",
+    "product": "oriole",
+    "board": "oriole",
+    "hardware": "oriole"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fuxi_13",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 13 (Android 13)",
+  "summary": "Snapdragon 8 Gen 2 - Android 13",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 13",
+    "device": "fuxi",
+    "product": "fuxi",
+    "board": "fuxi",
+    "hardware": "fuxi"
+  }
+}

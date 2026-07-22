@@ -1,0 +1,15 @@
+{
+  "id": "t2s_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S21+ (Android 12)",
+  "summary": "Exynos 2100 - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S21+",
+    "device": "t2s",
+    "product": "t2s",
+    "board": "t2s",
+    "hardware": "t2s"
+  }
+}

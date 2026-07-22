@@ -1,0 +1,15 @@
+{
+  "id": "denniz_14",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord 2 (Android 14)",
+  "summary": "Dimensity 1200 - Android 14",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord 2",
+    "device": "denniz",
+    "product": "denniz",
+    "board": "denniz",
+    "hardware": "denniz"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "alioth_14",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F3 (Android 14)",
+  "summary": "Snapdragon 870 - Android 14",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F3",
+    "device": "alioth",
+    "product": "alioth",
+    "board": "alioth",
+    "hardware": "alioth"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f2s_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S25+ (Android 15)",
+  "summary": "Snapdragon 8 Elite - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S25+",
+    "device": "f2s",
+    "product": "f2s",
+    "board": "f2s",
+    "hardware": "f2s"
+  }
+}

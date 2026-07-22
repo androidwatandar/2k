@@ -1,0 +1,15 @@
+{
+  "id": "caihong_12L",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 13 (Android 12L)",
+  "summary": "Snapdragon 8 Elite - Android 12L",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 13",
+    "device": "caihong",
+    "product": "caihong",
+    "board": "caihong",
+    "hardware": "caihong"
+  }
+}

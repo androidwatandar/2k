@@ -1,0 +1,15 @@
+{
+  "id": "ctwou_12",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 50 Ultra (Android 12)",
+  "summary": "Snapdragon 8s Gen 3 - Android 12",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 50 Ultra",
+    "device": "ctwou",
+    "product": "ctwou",
+    "board": "ctwou",
+    "hardware": "ctwou"
+  }
+}

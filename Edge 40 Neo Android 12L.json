@@ -1,0 +1,15 @@
+{
+  "id": "manaus_12L",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 40 Neo (Android 12L)",
+  "summary": "Dimensity 7030 - Android 12L",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 40 Neo",
+    "device": "manaus",
+    "product": "manaus",
+    "board": "manaus",
+    "hardware": "manaus"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rhodec_11",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g62 (Android 11)",
+  "summary": "Snapdragon 480+ - Android 11",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g62",
+    "device": "rhodec",
+    "product": "rhodec",
+    "board": "rhodec",
+    "hardware": "rhodec"
+  }
+}

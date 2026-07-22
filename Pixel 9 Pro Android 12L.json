@@ -1,0 +1,15 @@
+{
+  "id": "caiman_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 9 Pro (Android 12L)",
+  "summary": "Tensor G4 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 9 Pro",
+    "device": "caiman",
+    "product": "caiman",
+    "board": "caiman",
+    "hardware": "caiman"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "PKC110_15",
+  "brandLabel": "OPPO",
+  "modelLabel": "Find X8 Pro (Android 15)",
+  "summary": "Dimensity 9400 - Android 15",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Find X8 Pro",
+    "device": "PKC110",
+    "product": "PKC110",
+    "board": "PKC110",
+    "hardware": "PKC110"
+  }
+}

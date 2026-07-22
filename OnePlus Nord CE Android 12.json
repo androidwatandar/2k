@@ -1,0 +1,15 @@
+{
+  "id": "ebba_12",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus Nord CE (Android 12)",
+  "summary": "Snapdragon 750G - Android 12",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Nord CE",
+    "device": "ebba",
+    "product": "ebba",
+    "board": "ebba",
+    "hardware": "ebba"
+  }
+}

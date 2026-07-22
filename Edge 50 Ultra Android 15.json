@@ -1,0 +1,15 @@
+{
+  "id": "ctwou_15",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 50 Ultra (Android 15)",
+  "summary": "Snapdragon 8s Gen 3 - Android 15",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 50 Ultra",
+    "device": "ctwou",
+    "product": "ctwou",
+    "board": "ctwou",
+    "hardware": "ctwou"
+  }
+}

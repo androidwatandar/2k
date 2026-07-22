@@ -1,0 +1,15 @@
+{
+  "id": "r0s_11",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S22 (Android 11)",
+  "summary": "Exynos 2200 - Android 11",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S22",
+    "device": "r0s",
+    "product": "r0s",
+    "board": "r0s",
+    "hardware": "r0s"
+  }
+}

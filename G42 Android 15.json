@@ -1,0 +1,15 @@
+{
+  "id": "scarletwitch_plus_15",
+  "brandLabel": "Nokia",
+  "modelLabel": "G42 (Android 15)",
+  "summary": "Snapdragon 480+ - Android 15",
+  "profile": {
+    "brand": "nokia",
+    "manufacturer": "Nokia",
+    "model": "G42",
+    "device": "scarletwitch_plus",
+    "product": "scarletwitch_plus",
+    "board": "scarletwitch_plus",
+    "hardware": "scarletwitch_plus"
+  }
+}

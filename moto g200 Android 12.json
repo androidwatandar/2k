@@ -1,0 +1,15 @@
+{
+  "id": "xpeng_12",
+  "brandLabel": "Motorola",
+  "modelLabel": "moto g200 (Android 12)",
+  "summary": "Snapdragon 888+ - Android 12",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "moto g200",
+    "device": "xpeng",
+    "product": "xpeng",
+    "board": "xpeng",
+    "hardware": "xpeng"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "scarletwitch_plus_13",
+  "brandLabel": "Nokia",
+  "modelLabel": "G42 (Android 13)",
+  "summary": "Snapdragon 480+ - Android 13",
+  "profile": {
+    "brand": "nokia",
+    "manufacturer": "Nokia",
+    "model": "G42",
+    "device": "scarletwitch_plus",
+    "product": "scarletwitch_plus",
+    "board": "scarletwitch_plus",
+    "hardware": "scarletwitch_plus"
+  }
+}

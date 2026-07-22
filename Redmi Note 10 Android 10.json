@@ -1,0 +1,15 @@
+{
+  "id": "mojito_10",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 10 (Android 10)",
+  "summary": "Snapdragon 678 - Android 10",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 10",
+    "device": "mojito",
+    "product": "mojito",
+    "board": "mojito",
+    "hardware": "mojito"
+  }
+}

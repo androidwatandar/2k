@@ -1,0 +1,15 @@
+{
+  "id": "bullhead_10",
+  "brandLabel": "Google",
+  "modelLabel": "Nexus 5X (Android 10)",
+  "summary": "Snapdragon 808 - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Nexus 5X",
+    "device": "bullhead",
+    "product": "bullhead",
+    "board": "bullhead",
+    "hardware": "bullhead"
+  }
+}

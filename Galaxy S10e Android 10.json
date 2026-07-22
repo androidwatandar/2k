@@ -1,0 +1,15 @@
+{
+  "id": "beyond0_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S10e (Android 10)",
+  "summary": "Exynos 9820 - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S10e",
+    "device": "beyond0",
+    "product": "beyond0",
+    "board": "beyond0",
+    "hardware": "beyond0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "m35_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy M35 (Android 10)",
+  "summary": "Exynos 1380 - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy M35",
+    "device": "m35",
+    "product": "m35",
+    "board": "m35",
+    "hardware": "m35"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zircon_12L",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 13 Pro+ (Android 12L)",
+  "summary": "Dimensity 7200 - Android 12L",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 13 Pro+",
+    "device": "zircon",
+    "product": "zircon",
+    "board": "zircon",
+    "hardware": "zircon"
+  }
+}

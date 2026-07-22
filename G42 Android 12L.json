@@ -1,0 +1,15 @@
+{
+  "id": "scarletwitch_plus_12L",
+  "brandLabel": "Nokia",
+  "modelLabel": "G42 (Android 12L)",
+  "summary": "Snapdragon 480+ - Android 12L",
+  "profile": {
+    "brand": "nokia",
+    "manufacturer": "Nokia",
+    "model": "G42",
+    "device": "scarletwitch_plus",
+    "product": "scarletwitch_plus",
+    "board": "scarletwitch_plus",
+    "hardware": "scarletwitch_plus"
+  }
+}

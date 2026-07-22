@@ -1,0 +1,15 @@
+{
+  "id": "b6q_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy Z Flip 6 (Android 10)",
+  "summary": "Snapdragon 8 Gen 3 - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy Z Flip 6",
+    "device": "b6q",
+    "product": "b6q",
+    "board": "b6q",
+    "hardware": "b6q"
+  }
+}

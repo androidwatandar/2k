@@ -1,0 +1,15 @@
+{
+  "id": "mondrian_11",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi K60 (Android 11)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 11",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi K60",
+    "device": "mondrian",
+    "product": "mondrian",
+    "board": "mondrian",
+    "hardware": "mondrian"
+  }
+}

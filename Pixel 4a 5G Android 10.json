@@ -1,0 +1,15 @@
+{
+  "id": "bramble_10",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 4a 5G (Android 10)",
+  "summary": "Snapdragon 765G - Android 10",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 4a 5G",
+    "device": "bramble",
+    "product": "bramble",
+    "board": "bramble",
+    "hardware": "bramble"
+  }
+}

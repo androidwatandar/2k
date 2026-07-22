@@ -1,0 +1,15 @@
+{
+  "id": "sunfish_15",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 4a (Android 15)",
+  "summary": "Snapdragon 730G - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 4a",
+    "device": "sunfish",
+    "product": "sunfish",
+    "board": "sunfish",
+    "hardware": "sunfish"
+  }
+}

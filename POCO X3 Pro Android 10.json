@@ -1,0 +1,15 @@
+{
+  "id": "vayu_10",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO X3 Pro (Android 10)",
+  "summary": "Snapdragon 860 - Android 10",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO X3 Pro",
+    "device": "vayu",
+    "product": "vayu",
+    "board": "vayu",
+    "hardware": "vayu"
+  }
+}

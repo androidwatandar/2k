@@ -1,0 +1,15 @@
+{
+  "id": "alioth_13",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi K40 (Android 13)",
+  "summary": "Snapdragon 870 - Android 13",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi K40",
+    "device": "alioth",
+    "product": "alioth",
+    "board": "alioth",
+    "hardware": "alioth"
+  }
+}

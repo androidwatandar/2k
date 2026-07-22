@@ -1,0 +1,15 @@
+{
+  "id": "f1s_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S25 (Android 12)",
+  "summary": "Snapdragon 8 Elite - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S25",
+    "device": "f1s",
+    "product": "f1s",
+    "board": "f1s",
+    "hardware": "f1s"
+  }
+}

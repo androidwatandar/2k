@@ -1,0 +1,15 @@
+{
+  "id": "marble_13",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F5 (Android 13)",
+  "summary": "Snapdragon 7+ Gen 2 - Android 13",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F5",
+    "device": "marble",
+    "product": "marble",
+    "board": "marble",
+    "hardware": "marble"
+  }
+}

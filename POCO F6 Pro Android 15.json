@@ -1,0 +1,15 @@
+{
+  "id": "vermeer_15",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F6 Pro (Android 15)",
+  "summary": "Snapdragon 8 Gen 2 - Android 15",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F6 Pro",
+    "device": "vermeer",
+    "product": "vermeer",
+    "board": "vermeer",
+    "hardware": "vermeer"
+  }
+}

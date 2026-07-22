@@ -1,0 +1,15 @@
+{
+  "id": "FZ-N1_11",
+  "brandLabel": "Panasonic",
+  "modelLabel": "TOUGHBOOK N1 (Android 11)",
+  "summary": "Snapdragon 660 - Android 11",
+  "profile": {
+    "brand": "panasonic",
+    "manufacturer": "Panasonic",
+    "model": "TOUGHBOOK N1",
+    "device": "FZ-N1",
+    "product": "FZ-N1",
+    "board": "FZ-N1",
+    "hardware": "FZ-N1"
+  }
+}

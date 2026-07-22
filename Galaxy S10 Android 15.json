@@ -1,0 +1,15 @@
+{
+  "id": "beyond1_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S10 (Android 15)",
+  "summary": "Exynos 9820 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S10",
+    "device": "beyond1",
+    "product": "beyond1",
+    "board": "beyond1",
+    "hardware": "beyond1"
+  }
+}

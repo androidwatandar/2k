@@ -1,0 +1,15 @@
+{
+  "id": "FP4_14",
+  "brandLabel": "Fairphone",
+  "modelLabel": "4 (Android 14)",
+  "summary": "Snapdragon 750G - Android 14",
+  "profile": {
+    "brand": "fairphone",
+    "manufacturer": "Fairphone",
+    "model": "4",
+    "device": "FP4",
+    "product": "FP4",
+    "board": "FP4",
+    "hardware": "FP4"
+  }
+}

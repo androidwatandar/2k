@@ -1,0 +1,15 @@
+{
+  "id": "rtwo_11",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 40 (Android 11)",
+  "summary": "Dimensity 8020 - Android 11",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 40",
+    "device": "rtwo",
+    "product": "rtwo",
+    "board": "rtwo",
+    "hardware": "rtwo"
+  }
+}

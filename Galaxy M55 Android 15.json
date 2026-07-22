@@ -1,0 +1,15 @@
+{
+  "id": "m55_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy M55 (Android 15)",
+  "summary": "Snapdragon 7 Gen 1 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy M55",
+    "device": "m55",
+    "product": "m55",
+    "board": "m55",
+    "hardware": "m55"
+  }
+}

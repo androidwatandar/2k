@@ -1,0 +1,15 @@
+{
+  "id": "pdx203_11",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 1 II (Android 11)",
+  "summary": "Snapdragon 865 - Android 11",
+  "profile": {
+    "brand": "sony",
+    "manufacturer": "Sony",
+    "model": "Xperia 1 II",
+    "device": "pdx203",
+    "product": "pdx203",
+    "board": "pdx203",
+    "hardware": "pdx203"
+  }
+}

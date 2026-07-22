@@ -1,0 +1,15 @@
+{
+  "id": "a73_12",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A73 (Android 12)",
+  "summary": "Snapdragon 778G - Android 12",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A73",
+    "device": "a73",
+    "product": "a73",
+    "board": "a73",
+    "hardware": "a73"
+  }
+}

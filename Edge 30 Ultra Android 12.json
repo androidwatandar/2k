@@ -1,0 +1,15 @@
+{
+  "id": "vienna_12",
+  "brandLabel": "Motorola",
+  "modelLabel": "Edge 30 Ultra (Android 12)",
+  "summary": "Snapdragon 8+ Gen 1 - Android 12",
+  "profile": {
+    "brand": "motorola",
+    "manufacturer": "motorola",
+    "model": "Edge 30 Ultra",
+    "device": "vienna",
+    "product": "vienna",
+    "board": "vienna",
+    "hardware": "vienna"
+  }
+}

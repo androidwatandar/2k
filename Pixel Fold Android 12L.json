@@ -1,0 +1,15 @@
+{
+  "id": "felix_12L",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel Fold (Android 12L)",
+  "summary": "Tensor G2 - Android 12L",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel Fold",
+    "device": "felix",
+    "product": "felix",
+    "board": "felix",
+    "hardware": "felix"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "instantnoodle_14",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 8 (Android 14)",
+  "summary": "Snapdragon 865 - Android 14",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 8",
+    "device": "instantnoodle",
+    "product": "instantnoodle",
+    "board": "instantnoodle",
+    "hardware": "instantnoodle"
+  }
+}

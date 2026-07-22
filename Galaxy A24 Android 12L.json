@@ -1,0 +1,15 @@
+{
+  "id": "a24_12L",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy A24 (Android 12L)",
+  "summary": "MediaTek - Android 12L",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy A24",
+    "device": "a24",
+    "product": "a24",
+    "board": "a24",
+    "hardware": "a24"
+  }
+}

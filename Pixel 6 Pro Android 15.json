@@ -1,0 +1,15 @@
+{
+  "id": "raven_15",
+  "brandLabel": "Google",
+  "modelLabel": "Pixel 6 Pro (Android 15)",
+  "summary": "Tensor - Android 15",
+  "profile": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 6 Pro",
+    "device": "raven",
+    "product": "raven",
+    "board": "raven",
+    "hardware": "raven"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "breeze_12L",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO M7 Pro (Android 12L)",
+  "summary": "Dimensity 7300 - Android 12L",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO M7 Pro",
+    "device": "breeze",
+    "product": "breeze",
+    "board": "breeze",
+    "hardware": "breeze"
+  }
+}

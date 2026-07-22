@@ -1,0 +1,15 @@
+{
+  "id": "lemonade_15",
+  "brandLabel": "OnePlus",
+  "modelLabel": "OnePlus 9 (Android 15)",
+  "summary": "Snapdragon 888 - Android 15",
+  "profile": {
+    "brand": "oneplus",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 9",
+    "device": "lemonade",
+    "product": "lemonade",
+    "board": "lemonade",
+    "hardware": "lemonade"
+  }
+}

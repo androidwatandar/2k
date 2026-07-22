@@ -1,0 +1,15 @@
+{
+  "id": "x1s_15",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S20 (Android 15)",
+  "summary": "Exynos 990 - Android 15",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S20",
+    "device": "x1s",
+    "product": "x1s",
+    "board": "x1s",
+    "hardware": "x1s"
+  }
+}

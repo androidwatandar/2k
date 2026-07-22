@@ -1,0 +1,15 @@
+{
+  "id": "beyond2_10",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy S10+ (Android 10)",
+  "summary": "Exynos 9820 - Android 10",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy S10+",
+    "device": "beyond2",
+    "product": "beyond2",
+    "board": "beyond2",
+    "hardware": "beyond2"
+  }
+}

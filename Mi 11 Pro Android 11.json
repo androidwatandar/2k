@@ -1,0 +1,15 @@
+{
+  "id": "mars_11",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 11 Pro (Android 11)",
+  "summary": "Snapdragon 888 - Android 11",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 11 Pro",
+    "device": "mars",
+    "product": "mars",
+    "board": "mars",
+    "hardware": "mars"
+  }
+}

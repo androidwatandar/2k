@@ -1,0 +1,15 @@
+{
+  "id": "ingres_14",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO F4 GT (Android 14)",
+  "summary": "Snapdragon 8 Gen 1 - Android 14",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO F4 GT",
+    "device": "ingres",
+    "product": "ingres",
+    "board": "ingres",
+    "hardware": "ingres"
+  }
+}

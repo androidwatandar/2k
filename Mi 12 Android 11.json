@@ -1,0 +1,15 @@
+{
+  "id": "cupid_11",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 12 (Android 11)",
+  "summary": "Snapdragon 8 Gen 1 - Android 11",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 12",
+    "device": "cupid",
+    "product": "cupid",
+    "board": "cupid",
+    "hardware": "cupid"
+  }
+}

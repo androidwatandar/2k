@@ -1,0 +1,15 @@
+{
+  "id": "veux_11",
+  "brandLabel": "POCO",
+  "modelLabel": "POCO X4 Pro (Android 11)",
+  "summary": "Snapdragon 695 - Android 11",
+  "profile": {
+    "brand": "poco",
+    "manufacturer": "Xiaomi",
+    "model": "POCO X4 Pro",
+    "device": "veux",
+    "product": "veux",
+    "board": "veux",
+    "hardware": "veux"
+  }
+}

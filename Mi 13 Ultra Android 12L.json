@@ -1,0 +1,15 @@
+{
+  "id": "ishtar_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 13 Ultra (Android 12L)",
+  "summary": "Snapdragon 8 Gen 2 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 13 Ultra",
+    "device": "ishtar",
+    "product": "ishtar",
+    "board": "ishtar",
+    "hardware": "ishtar"
+  }
+}

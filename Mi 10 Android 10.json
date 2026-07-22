@@ -1,0 +1,15 @@
+{
+  "id": "umi_10",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 10 (Android 10)",
+  "summary": "Snapdragon 865 - Android 10",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 10",
+    "device": "umi",
+    "product": "umi",
+    "board": "umi",
+    "hardware": "umi"
+  }
+}

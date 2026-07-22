@@ -1,0 +1,15 @@
+{
+  "id": "S665L_12",
+  "brandLabel": "Itel",
+  "modelLabel": "S23 (Android 12)",
+  "summary": "Unisoc T606 - Android 12",
+  "profile": {
+    "brand": "itel",
+    "manufacturer": "Itel",
+    "model": "S23",
+    "device": "S665L",
+    "product": "S665L",
+    "board": "S665L",
+    "hardware": "S665L"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "PFEM10_15",
+  "brandLabel": "OPPO",
+  "modelLabel": "Find X5 Pro (Android 15)",
+  "summary": "Snapdragon 8 Gen 1 - Android 15",
+  "profile": {
+    "brand": "oppo",
+    "manufacturer": "OPPO",
+    "model": "Find X5 Pro",
+    "device": "PFEM10",
+    "product": "PFEM10",
+    "board": "PFEM10",
+    "hardware": "PFEM10"
+  }
+}

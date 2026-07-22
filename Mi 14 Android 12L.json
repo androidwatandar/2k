@@ -1,0 +1,15 @@
+{
+  "id": "houji_12L",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 14 (Android 12L)",
+  "summary": "Snapdragon 8 Gen 3 - Android 12L",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 14",
+    "device": "houji",
+    "product": "houji",
+    "board": "houji",
+    "hardware": "houji"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nuwa_14",
+  "brandLabel": "Xiaomi",
+  "modelLabel": "Mi 13 Pro (Android 14)",
+  "summary": "Snapdragon 8 Gen 2 - Android 14",
+  "profile": {
+    "brand": "xiaomi",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 13 Pro",
+    "device": "nuwa",
+    "product": "nuwa",
+    "board": "nuwa",
+    "hardware": "nuwa"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sapphire_12L",
+  "brandLabel": "Redmi",
+  "modelLabel": "Redmi Note 13 (Android 12L)",
+  "summary": "Dimensity 6080 - Android 12L",
+  "profile": {
+    "brand": "redmi",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 13",
+    "device": "sapphire",
+    "product": "sapphire",
+    "board": "sapphire",
+    "hardware": "sapphire"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "FZ-N1_12L",
+  "brandLabel": "Panasonic",
+  "modelLabel": "TOUGHBOOK N1 (Android 12L)",
+  "summary": "Snapdragon 660 - Android 12L",
+  "profile": {
+    "brand": "panasonic",
+    "manufacturer": "Panasonic",
+    "model": "TOUGHBOOK N1",
+    "device": "FZ-N1",
+    "product": "FZ-N1",
+    "board": "FZ-N1",
+    "hardware": "FZ-N1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "MLA-AL00_11",
+  "brandLabel": "HUAWEI",
+  "modelLabel": "nova 13 (Android 11)",
+  "summary": "Kirin 830 - Android 11",
+  "profile": {
+    "brand": "huawei",
+    "manufacturer": "HUAWEI",
+    "model": "nova 13",
+    "device": "MLA-AL00",
+    "product": "MLA-AL00",
+    "board": "MLA-AL00",
+    "hardware": "MLA-AL00"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "m55_11",
+  "brandLabel": "Samsung",
+  "modelLabel": "Galaxy M55 (Android 11)",
+  "summary": "Snapdragon 7 Gen 1 - Android 11",
+  "profile": {
+    "brand": "samsung",
+    "manufacturer": "samsung",
+    "model": "Galaxy M55",
+    "device": "m55",
+    "product": "m55",
+    "board": "m55",
+    "hardware": "m55"
+  }
+}
